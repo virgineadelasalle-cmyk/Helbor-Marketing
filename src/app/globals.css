@@ -198,3 +198,50 @@ html { scroll-behavior:smooth; }
 .ring-legend { display:flex; gap:5px; width:100%; margin-top:12px; }.ring-legend button { display:flex; flex-direction:column; align-items:center; flex:1; gap:5px; padding:7px; border-radius:8px; font-size:10px; color:#8292a9; }.ring-legend button.active,.ring-legend button:hover { background:#eef4fc; }.ring-legend i { width:7px; height:7px; border-radius:50%; }.ring-legend b { color:#183b6e; font-size:12px; }
 .focus-caption { color:#97a6b9; font-size:10px; margin:17px 0; }
 @media(max-width:760px) { .one-shell { padding:15px; }.focus-metrics { grid-template-columns:1fr 1fr; }.focus-metrics>div,.focus-metrics>button { padding:18px; }.focus-charts { grid-template-columns:1fr; }.focus-title { align-items:start; }.focus-title select { max-width:110px; }.one-nav { overflow:auto; }.focus-title h1 { font-size:26px; } }
+/* Desktop workspace fits within one centered frame. */
+@media(min-width:900px) {
+ body { background:#e9eef5; }
+ .one-page { width:calc(100% - 32px); max-width:1440px; height:calc(100dvh - 32px); min-height:0; margin:16px auto; border:1px solid #dce4ef; border-radius:20px; overflow:hidden; display:flex; flex-direction:column; box-shadow:0 16px 60px #15356312; }
+ .topbar { position:relative; flex-shrink:0; }
+ .topbar-inner { min-height:66px; padding:8px 26px; }
+ .topbar .brand-logo { width:122px; }
+ .one-shell { flex:1; min-height:0; width:100%; display:flex; flex-direction:column; padding:12px 26px 16px; }
+ .one-nav { flex-shrink:0; padding:0 0 12px; }
+ .one-nav button { padding:7px 13px; font-size:12px; }
+ .one-content { flex:1; min-height:0; display:flex; flex-direction:column; }
+ #painel { flex:1; min-height:0; }
+ .focus-dashboard { height:100%; min-height:0; display:flex; flex-direction:column; }
+ .focus-title { margin:0 0 15px; flex-shrink:0; }
+ .focus-title h1 { font-size:clamp(24px,2.4vw,32px); margin-top:3px; }
+ .focus-title span { font-size:11px; }
+ .focus-title select { padding:10px 12px; }
+ .focus-metrics { flex-shrink:0; }
+ .focus-metrics>div,.focus-metrics>button { padding:18px 22px; gap:7px; }
+ .focus-metrics strong { font-size:clamp(23px,2.5vw,30px); }
+ .focus-charts { flex:1; min-height:0; margin-top:16px; gap:16px; }
+ .line-panel,.ring-panel { padding:18px 22px; display:flex; flex-direction:column; min-height:0; }
+ .chart-title { flex-shrink:0; }
+ .spend-chart { flex:1; min-height:0; height:100%; margin-top:10px; max-height:none; }
+ .ring-layout { flex:1; min-height:0; margin-top:8px; justify-content:center; }
+ .ring-wrap { width:min(185px,21vh); flex-shrink:1; min-height:0; }
+ .ring-wrap svg { display:block; width:100%; max-height:100%; }
+ .ring-legend { margin-top:5px; flex-shrink:0; }
+ .ring-legend button { padding:4px; gap:3px; }
+ .focus-caption { flex-shrink:0; margin:10px 0 0; font-size:9px; }
+ .balance-detail { flex-shrink:0; margin-top:8px; padding:9px 14px; font-size:11px; }
+ #inicio { flex:1; min-height:0; align-content:center; }
+}
+@media(min-width:900px) and (max-height:650px) {
+ .one-page { height:calc(100dvh - 16px); margin:8px auto; }
+ .topbar-inner { min-height:55px; padding:5px 22px; }
+ .topbar .brand-logo { width:105px; }
+ .one-shell { padding:8px 22px 10px; }
+ .one-nav { padding-bottom:8px; }
+ .focus-title { margin-bottom:10px; }
+ .focus-title h1 { font-size:24px; }
+ .focus-metrics>div,.focus-metrics>button { padding:12px 17px; gap:5px; }
+ .focus-charts { margin-top:10px; }
+ .line-panel,.ring-panel { padding:13px 17px; }
+ .ring-wrap { width:120px; }
+ .ring-label b { font-size:17px; }
+}
