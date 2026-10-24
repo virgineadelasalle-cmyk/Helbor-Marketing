@@ -1,69 +1,42 @@
+"use client";
+import { useEffect, useMemo, useState } from "react";
 import Image from "next/image";
 
-export default function Home() {
-  return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert h-5 w-[100px]"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the{" "}
-            <code className="rounded bg-black/[.06] px-1.5 py-0.5 font-mono text-[0.9em] dark:bg-white/[.08]">
-              page.tsx
-            </code>{" "}
-            file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
-        </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert h-[14px] w-4"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={14}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
-    </div>
-  );
+type Role = "solicitante" | "marketing" | "administrador";
+type Request = { id: string; title: string; type: string; status: string; date: string; requester: string; spe: string; estimated: number; realized: number; note: string };
+const initial: Request[] = [
+  { id:"HM-2026-0001",title:"Roadshow Manaus",type:"Evento",status:"Em análise",date:"2026-04-09",requester:"Ana (demonstração)",spe:"221",estimated:5200,realized:0,note:"Aguardando cotação do espaço" },
+  { id:"HM-2026-0002",title:"Passagem para Salvador",type:"Passagem aérea",status:"Finalizada",date:"2026-04-09",requester:"Bruno (demonstração)",spe:"150",estimated:1500,realized:1350,note:"" },
+  { id:"HM-2026-0003",title:"Treinamento de plantão",type:"Evento",status:"Aguardando informações",date:"2026-03-24",requester:"Ana (demonstração)",spe:"193",estimated:3000,realized:0,note:"Confirmar número de participantes" },
+];
+const types=["Evento","Passagem aérea","Hospedagem","Reembolso","Outras despesas"];
+const statuses=["Recebida","Em análise","Aguardando informações","Em cotação/organização","Aguardando aprovação","Aprovada","Em execução","Concluída — aguardando custos","Finalizada","Cancelada"];
+const money=(n:number)=>new Intl.NumberFormat("pt-BR",{style:"currency",currency:"BRL"}).format(n);
+const date=(s:string)=>s?new Date(`${s}T12:00:00`).toLocaleDateString("pt-BR"):"—";
+const fields:Record<string,{key:string;label:string;kind?:string}[]>={
+  Evento:[{key:"title",label:"Nome do evento"},{key:"purpose",label:"Objetivo"},{key:"date",label:"Data",kind:"date"},{key:"place",label:"Local ou cidade"},{key:"participants",label:"Participantes estimados",kind:"number"}],
+  "Passagem aérea":[{key:"title",label:"Nome do passageiro"},{key:"origin",label:"Origem"},{key:"destination",label:"Destino"},{key:"date",label:"Data de ida",kind:"date"},{key:"return",label:"Data de volta",kind:"date"}],
+  Hospedagem:[{key:"title",label:"Nome do hóspede"},{key:"place",label:"Cidade"},{key:"date",label:"Check-in",kind:"date"},{key:"checkout",label:"Check-out",kind:"date"},{key:"guests",label:"Quantidade de hóspedes",kind:"number"}],
+  Reembolso:[{key:"title",label:"Descrição da despesa"},{key:"date",label:"Data da despesa",kind:"date"},{key:"estimated",label:"Valor solicitado",kind:"number"}],
+  "Outras despesas":[{key:"title",label:"Descrição da despesa"},{key:"date",label:"Data",kind:"date"},{key:"estimated",label:"Valor previsto",kind:"number"}]
+};
+const nav:Record<Role,string[]>={solicitante:["Início","Nova solicitação","Minhas solicitações"],marketing:["Visão geral","Solicitações","Orçamento","Empreendimentos"],administrador:["Visão geral","Solicitações","Orçamento","Empreendimentos","Usuários"]};
+export default function Home(){
+ const [role,setRole]=useState<Role>("solicitante"),[section,setSection]=useState("Início"),[items,setItems]=useState<Request[]>(initial),[selected,setSelected]=useState<string|null>(null),[type,setType]=useState("Evento"),[form,setForm]=useState<Record<string,string>>({}),[search,setSearch]=useState(""),[notice,setNotice]=useState("");
+ useEffect(()=>{try{const saved=localStorage.getItem("helbor-demo-v1");if(saved){const parsed=JSON.parse(saved);queueMicrotask(()=>setItems(parsed));}}catch{}},[]);
+ const save=(next:Request[])=>{setItems(next);localStorage.setItem("helbor-demo-v1",JSON.stringify(next));};
+ const visible=useMemo(()=>items.filter(x=>(role!=="solicitante"||x.requester==="Ana (demonstração)")&&`${x.title} ${x.id} ${x.status}`.toLowerCase().includes(search.toLowerCase())),[items,role,search]);
+ const current=items.find(x=>x.id===selected);
+ const switchRole=(next:Role)=>{setRole(next);setSection(next==="solicitante"?"Início":"Visão geral");setSelected(null);setNotice("");};
+ const create=()=>{if(!form.title?.trim()||!form.date){setNotice("Preencha a descrição e a data para continuar.");return;}const id=`HM-2026-${String(Math.max(0,...items.map(x=>Number(x.id.split("-").at(-1))||0))+1).padStart(4,"0")}`;save([{id,title:form.title.trim(),type,status:"Recebida",date:form.date,requester:"Ana (demonstração)",spe:form.spe?.trim()||"A definir",estimated:Number(form.estimated)||0,realized:0,note:""},...items]);setForm({});setSection("Minhas solicitações");setNotice(`Solicitação ${id} registrada nesta demonstração.`);};
+ const update=(id:string,patch:Partial<Request>)=>{save(items.map(x=>x.id===id?{...x,...patch}:x));setNotice("Alteração registrada nesta demonstração.");};
+ const card="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm";
+ return <div className="min-h-screen bg-[#fbf6ef] text-[#06245a]"><header className="border-b border-slate-200 bg-white"><div className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-4 px-6 py-5"><div className="brand-lockup"><Image src={`${process.env.NEXT_PUBLIC_BASE_PATH || ""}/helbor-logo.svg`} alt="Helbor — sinta-se em casa" width={160} height={59} className="brand-logo"/><div className="brand-product">MARKETING <span>· Corretor ON</span></div></div><label className="text-sm text-slate-600">Visualizar tela de <select aria-label="Perfil de demonstração" className="ml-2 rounded-lg border px-3 py-2 font-medium" value={role} onChange={e=>switchRole(e.target.value as Role)}><option value="solicitante">Solicitante</option><option value="marketing">Marketing</option><option value="administrador">Administrador</option></select></label></div></header><div className="mx-auto flex max-w-7xl flex-col gap-6 px-6 py-8 md:flex-row"><nav aria-label="Navegação principal" className="flex shrink-0 flex-wrap gap-2 md:w-52 md:flex-col">{nav[role].map(x=><button key={x} onClick={()=>{setSection(x);setSelected(null);setNotice("");}} className={`rounded-xl px-4 py-3 text-left text-sm font-medium ${section===x?"bg-[#06245a] text-white":"bg-white text-slate-600 hover:bg-slate-100"}`}>{x}</button>)}</nav><main className="min-w-0 flex-1">{notice&&<div role="status" className="mb-5 rounded-xl border border-[#ce8b42]200 bg-[#faf0e3] p-4 text-sm text-[#6d451e]">{notice}</div>}
+ {selected&&current?<section className={card}><button className="mb-5 text-sm text-[#a56a27] underline" onClick={()=>setSelected(null)}>← Voltar</button><div className="flex flex-wrap justify-between gap-3"><div><p className="text-sm text-slate-500">{current.id} · {current.type}</p><h1 className="mt-1 text-2xl font-semibold">{current.title}</h1></div><span className="h-fit rounded-full bg-[#f8e9d6] px-3 py-1 text-sm text-[#6d451e]">{current.status}</span></div><div className="mt-7 grid gap-5 border-t pt-6 text-sm sm:grid-cols-2"><p><b>Data</b><br/>{date(current.date)}</p><p><b>SPE (HESA)</b><br/>{current.spe}</p><p><b>Solicitante</b><br/>{current.requester}</p><p><b>Valor estimado</b><br/>{money(current.estimated)}</p>{current.status==="Finalizada"||role!=="solicitante"?<p><b>Valor realizado</b><br/>{money(current.realized)}</p>:null}</div>{role!=="solicitante"&&<div className="mt-7 grid gap-4 border-t pt-6 sm:grid-cols-2"><label className="text-sm font-medium">Status<select value={current.status} onChange={e=>update(current.id,{status:e.target.value})} className="mt-2 w-full rounded-lg border p-3">{statuses.map(x=><option key={x}>{x}</option>)}</select></label><label className="text-sm font-medium">Custo realizado<input type="number" min="0" step="0.01" value={current.realized} onChange={e=>update(current.id,{realized:Number(e.target.value)})} className="mt-2 w-full rounded-lg border p-3"/></label><label className="sm:col-span-2 text-sm font-medium">Observação interna<textarea value={current.note} onChange={e=>update(current.id,{note:e.target.value})} className="mt-2 w-full rounded-lg border p-3"/></label></div>}</section>:
+ section==="Nova solicitação"?<section className={card}><p className="text-sm font-semibold uppercase tracking-widest text-[#bd7c35]">Nova solicitação</p><h1 className="mt-2 text-3xl font-semibold">Como podemos ajudar?</h1><p className="mt-2 text-sm text-slate-500">Informe o essencial para começar. O Marketing completa os dados financeiros depois.</p><div className="mt-7 grid gap-5 sm:grid-cols-2"><label className="text-sm font-medium sm:col-span-2">Qual é o tipo de solicitação?<select value={type} onChange={e=>{setType(e.target.value);setForm({});}} className="mt-2 w-full rounded-lg border p-3">{types.map(x=><option key={x}>{x}</option>)}</select></label>{fields[type].map(f=><label key={f.key} className="text-sm font-medium">{f.label}<input type={f.kind||"text"} value={form[f.key]||""} onChange={e=>setForm({...form,[f.key]:e.target.value})} className="mt-2 w-full rounded-lg border p-3"/></label>)}<label className="text-sm font-medium">SPE (código HESA, se souber)<input value={form.spe||""} onChange={e=>setForm({...form,spe:e.target.value})} className="mt-2 w-full rounded-lg border p-3" placeholder="Ex.: 224"/></label><label className="text-sm font-medium sm:col-span-2">Observações<textarea value={form.notes||""} onChange={e=>setForm({...form,notes:e.target.value})} className="mt-2 w-full rounded-lg border p-3"/></label></div><button onClick={create} className="mt-7 rounded-lg bg-[#06245a] px-6 py-3 font-semibold text-white">Registrar solicitação</button></section>:
+ section==="Início"?<><section className="rounded-2xl bg-[#f5e7d5] p-9 text-[#06245a]"><p className="text-sm uppercase tracking-widest text-[#a56a27]">Central de solicitações</p><h1 className="mt-3 text-3xl font-semibold brand-headline">Bem-vindo ao HELBOR MARKETING</h1><p className="mt-3 text-[#395276]">Centralize suas solicitações e acompanhe cada etapa em um só lugar.</p><button onClick={()=>setSection("Nova solicitação")} className="mt-7 rounded-lg bg-[#ce8b42] px-6 py-3 font-semibold text-slate-900">Nova solicitação</button><div className="mt-6 flex flex-wrap gap-2">{types.map(x=><button key={x} onClick={()=>{setType(x);setSection("Nova solicitação");}} className="rounded-full border border-[#bd9d78] px-4 py-2 text-sm hover:bg-[#ecd2b4]">{x}</button>)}</div></section><div className="mt-6 grid gap-4 sm:grid-cols-3">{[["Minhas solicitações",visible.length],["Aguardando informações",visible.filter(x=>x.status==="Aguardando informações").length],["Concluídas",visible.filter(x=>x.status==="Finalizada").length]].map(([label,count])=><button key={label} onClick={()=>setSection("Minhas solicitações")} className={`${card} text-left`}><span className="text-sm text-slate-500">{label}</span><strong className="mt-3 block text-3xl">{count}</strong></button>)}</div></>:
+ section==="Visão geral"?<><h1 className="text-3xl font-semibold">Visão geral do Marketing</h1><p className="mt-2 text-sm text-slate-500">Indicadores de demonstração, sem dados financeiros reais.</p><div className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">{[["Solicitações",items.length],["Em aberto",items.filter(x=>!['Finalizada','Cancelada'].includes(x.status)).length],["Estimado",money(items.reduce((n,x)=>n+x.estimated,0))],["Realizado",money(items.reduce((n,x)=>n+x.realized,0))]].map(([label,value])=><div key={label} className={card}><p className="text-sm text-slate-500">{label}</p><strong className="mt-3 block text-2xl">{value}</strong></div>)}</div><button className="mt-7 text-sm font-semibold text-[#a56a27] underline" onClick={()=>setSection("Solicitações")}>Ver solicitações →</button><div className="mt-6 space-y-3"><h2 className="text-lg font-semibold">Precisam de atenção</h2>{items.filter(x=>["Recebida","Aguardando informações","Aguardando aprovação"].includes(x.status)).slice(0,5).map(x=><button key={x.id} onClick={()=>setSelected(x.id)} className={`${card} flex w-full items-center justify-between text-left`}><span>{x.title}<small className="block text-slate-500">{x.id}</small></span><span className="text-sm text-[#a56a27]">{x.status} →</span></button>)}</div></>:
+ section==="Minhas solicitações"||section==="Solicitações"?<><div className="flex flex-wrap items-center justify-between gap-4"><div><h1 className="text-3xl font-semibold">{section}</h1><p className="mt-2 text-sm text-slate-500">Acompanhe o andamento de cada pedido.</p></div><input aria-label="Buscar solicitações" value={search} onChange={e=>setSearch(e.target.value)} placeholder="Buscar protocolo ou assunto" className="rounded-lg border p-3 text-sm"/></div><div className="mt-6 space-y-3">{visible.map(x=><button key={x.id} onClick={()=>setSelected(x.id)} className={`${card} flex w-full flex-wrap items-center justify-between gap-4 text-left hover:border-[#ce8b42]400`}><div><p className="text-xs text-slate-500">{x.id} · {date(x.date)}</p><h2 className="mt-1 font-semibold">{x.title}</h2><p className="mt-1 text-sm text-slate-500">{x.type} · SPE {x.spe}</p></div><span className="rounded-full bg-slate-100 px-3 py-1 text-sm">{x.status}</span></button>)}</div></>:
+ <section className={card}><h1 className="text-2xl font-semibold">{section}</h1><p className="mt-3 text-slate-600">Módulo em construção. As informações financeiras e de usuários só serão disponibilizadas com persistência e controle de acesso no servidor.</p></section>}
+ <p className="mt-9 text-xs text-slate-500">Demonstração local: informações de exemplo. As alterações ficam somente neste navegador e não constituem registro oficial.</p></main></div></div>;
 }

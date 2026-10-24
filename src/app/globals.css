@@ -1,26 +1,15 @@
 @import "tailwindcss";
+:root { --background:#fbf6ef; --foreground:#06245a; }
+@theme inline { --color-background:var(--background); --color-foreground:var(--foreground); }
+body { background:var(--background); color:var(--foreground); font-family:Arial,Helvetica,sans-serif; }
+.brand-lockup { color:#06245a; line-height:1; min-width:185px; }
+.brand-name { font-size:29px; font-weight:700; letter-spacing:-.075em; }
+.brand-mark { display:inline-flex; align-items:center; justify-content:center; width:24px; height:24px; margin-right:2px; border-radius:50%; background:#06245a; color:white; font-size:20px; letter-spacing:0; vertical-align:2px; }
+.brand-tagline { margin:2px 0 8px 38px; font:italic 13px Georgia,serif; letter-spacing:.06em; }
+.brand-product { font-size:10px; font-weight:700; letter-spacing:.22em; }
+.brand-product span { font-weight:400; letter-spacing:0; }
+.brand-headline { font-family:Georgia,'Times New Roman',serif; font-style:italic; font-weight:400; }
+button, select, input, textarea { cursor:pointer; }
+button:focus-visible,select:focus-visible,input:focus-visible,textarea:focus-visible { outline:3px solid #ce8b42; outline-offset:2px; }
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
-}
+.brand-logo { display:block; width:160px; height:auto; }

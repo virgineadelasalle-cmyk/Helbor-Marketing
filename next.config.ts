@@ -1,9 +1,10 @@
 import type { NextConfig } from "next";
 
+const pages = process.env.GITHUB_PAGES === "1";
 const nextConfig: NextConfig = {
+  ...(pages ? { output: "export" as const, basePath: "/Helbor-Marketing" } : {}),
   /* config options here */
-  cacheComponents: true,
-  partialPrefetching: true,
+  ...(!pages ? { cacheComponents: true, partialPrefetching: true } : {}),
   turbopack: {
     rules: {
       "*.css": {
