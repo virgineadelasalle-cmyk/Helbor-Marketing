@@ -1,0 +1,6350 @@
+{
+  "name": "PLANILHA_CORRETOR_ON_AJUSTADA.xlsx",
+  "budgetRows": [
+    {
+      "year": 2026,
+      "month": "Abril",
+      "spe": "224",
+      "product": "BRK",
+      "cents": 1000000,
+      "sourceRow": 2
+    },
+    {
+      "year": 2026,
+      "month": "Abril",
+      "spe": "183",
+      "product": "OPEN MIND",
+      "cents": 1000000,
+      "sourceRow": 3
+    },
+    {
+      "year": 2026,
+      "month": "Abril",
+      "spe": "150",
+      "product": "W",
+      "cents": 1000000,
+      "sourceRow": 4
+    },
+    {
+      "year": 2026,
+      "month": "Abril",
+      "spe": "187",
+      "product": "ARTEFACTO",
+      "cents": 500000,
+      "sourceRow": 5
+    },
+    {
+      "year": 2026,
+      "month": "Abril",
+      "spe": "197",
+      "product": "CLUBE PATTEO SBC",
+      "cents": 300000,
+      "sourceRow": 6
+    },
+    {
+      "year": 2026,
+      "month": "Abril",
+      "spe": "193",
+      "product": "PATTEO VM",
+      "cents": 200000,
+      "sourceRow": 7
+    },
+    {
+      "year": 2026,
+      "month": "Abril",
+      "spe": "202",
+      "product": "METROPOLITAN",
+      "cents": 300000,
+      "sourceRow": 8
+    },
+    {
+      "year": 2026,
+      "month": "Abril",
+      "spe": "194",
+      "product": "CASA VN",
+      "cents": 250000,
+      "sourceRow": 9
+    },
+    {
+      "year": 2026,
+      "month": "Abril",
+      "spe": "214",
+      "product": "CASA PIAUI",
+      "cents": 1000000,
+      "sourceRow": 10
+    },
+    {
+      "year": 2026,
+      "month": "Abril",
+      "spe": "223",
+      "product": "COLLAGE",
+      "cents": 1000000,
+      "sourceRow": 11
+    },
+    {
+      "year": 2026,
+      "month": "Abril",
+      "spe": "211",
+      "product": "HAVVA",
+      "cents": 1000000,
+      "sourceRow": 12
+    },
+    {
+      "year": 2026,
+      "month": "Abril",
+      "spe": "221",
+      "product": "STAY MOEMA",
+      "cents": 1500000,
+      "sourceRow": 13
+    },
+    {
+      "year": 2026,
+      "month": "Abril",
+      "spe": "208",
+      "product": "NEW PATTEO OSASCO",
+      "cents": 200000,
+      "sourceRow": 14
+    },
+    {
+      "year": 2026,
+      "month": "Abril",
+      "spe": "ALDEN 4",
+      "product": "FAZENDA ITAPETY",
+      "cents": 650000,
+      "sourceRow": 15
+    },
+    {
+      "year": 2026,
+      "month": "Abril",
+      "spe": "138",
+      "product": "ALEGRIA",
+      "cents": 330000,
+      "sourceRow": 16
+    },
+    {
+      "year": 2026,
+      "month": "Abril",
+      "spe": "142",
+      "product": "PARQUE CLUBE IPOEMA",
+      "cents": 0,
+      "sourceRow": 17
+    },
+    {
+      "year": 2026,
+      "month": "Agosto",
+      "spe": "224",
+      "product": "BRK",
+      "cents": 1000000,
+      "sourceRow": 18
+    },
+    {
+      "year": 2026,
+      "month": "Agosto",
+      "spe": "183",
+      "product": "OPEN MIND",
+      "cents": 1000000,
+      "sourceRow": 19
+    },
+    {
+      "year": 2026,
+      "month": "Agosto",
+      "spe": "150",
+      "product": "W",
+      "cents": 0,
+      "sourceRow": 20
+    },
+    {
+      "year": 2026,
+      "month": "Agosto",
+      "spe": "187",
+      "product": "ARTEFACTO",
+      "cents": 500000,
+      "sourceRow": 21
+    },
+    {
+      "year": 2026,
+      "month": "Agosto",
+      "spe": "197",
+      "product": "CLUBE PATTEO SBC",
+      "cents": 300000,
+      "sourceRow": 22
+    },
+    {
+      "year": 2026,
+      "month": "Agosto",
+      "spe": "193",
+      "product": "PATTEO VM",
+      "cents": 800000,
+      "sourceRow": 23
+    },
+    {
+      "year": 2026,
+      "month": "Agosto",
+      "spe": "202",
+      "product": "METROPOLITAN",
+      "cents": 1000000,
+      "sourceRow": 24
+    },
+    {
+      "year": 2026,
+      "month": "Agosto",
+      "spe": "194",
+      "product": "CASA VN",
+      "cents": 0,
+      "sourceRow": 25
+    },
+    {
+      "year": 2026,
+      "month": "Agosto",
+      "spe": "214",
+      "product": "CASA PIAUI",
+      "cents": 1000000,
+      "sourceRow": 26
+    },
+    {
+      "year": 2026,
+      "month": "Agosto",
+      "spe": "223",
+      "product": "COLLAGE",
+      "cents": 1500000,
+      "sourceRow": 27
+    },
+    {
+      "year": 2026,
+      "month": "Agosto",
+      "spe": "211",
+      "product": "HAVVA",
+      "cents": 1000000,
+      "sourceRow": 28
+    },
+    {
+      "year": 2026,
+      "month": "Agosto",
+      "spe": "221",
+      "product": "STAY MOEMA",
+      "cents": 3500000,
+      "sourceRow": 29
+    },
+    {
+      "year": 2026,
+      "month": "Agosto",
+      "spe": "208",
+      "product": "NEW PATTEO OSASCO",
+      "cents": 0,
+      "sourceRow": 30
+    },
+    {
+      "year": 2026,
+      "month": "Agosto",
+      "spe": "138",
+      "product": "ALEGRIA",
+      "cents": 800000,
+      "sourceRow": 31
+    },
+    {
+      "year": 2026,
+      "month": "Agosto",
+      "spe": "ALDEN 4",
+      "product": "FAZENDA ITAPETY",
+      "cents": 800000,
+      "sourceRow": 32
+    },
+    {
+      "year": 2026,
+      "month": "Dezembro",
+      "spe": "224",
+      "product": "BRK",
+      "cents": 0,
+      "sourceRow": 33
+    },
+    {
+      "year": 2026,
+      "month": "Dezembro",
+      "spe": "183",
+      "product": "OPEN MIND",
+      "cents": 0,
+      "sourceRow": 34
+    },
+    {
+      "year": 2026,
+      "month": "Dezembro",
+      "spe": "150",
+      "product": "W",
+      "cents": 0,
+      "sourceRow": 35
+    },
+    {
+      "year": 2026,
+      "month": "Dezembro",
+      "spe": "187",
+      "product": "ARTEFACTO",
+      "cents": 0,
+      "sourceRow": 36
+    },
+    {
+      "year": 2026,
+      "month": "Agosto",
+      "spe": "42",
+      "product": "PARQUE CLUBE IPOEMA",
+      "cents": 800000,
+      "sourceRow": 37
+    },
+    {
+      "year": 2026,
+      "month": "Dezembro",
+      "spe": "197",
+      "product": "CLUBE PATTEO SBC",
+      "cents": 300000,
+      "sourceRow": 38
+    },
+    {
+      "year": 2026,
+      "month": "Dezembro",
+      "spe": "202",
+      "product": "METROPOLITAN",
+      "cents": 0,
+      "sourceRow": 39
+    },
+    {
+      "year": 2026,
+      "month": "Dezembro",
+      "spe": "194",
+      "product": "CASA VN",
+      "cents": 0,
+      "sourceRow": 40
+    },
+    {
+      "year": 2026,
+      "month": "Dezembro",
+      "spe": "214",
+      "product": "CASA PIAUI",
+      "cents": 0,
+      "sourceRow": 41
+    },
+    {
+      "year": 2026,
+      "month": "Dezembro",
+      "spe": "ALDEN 8",
+      "product": "VILA ITAPETY",
+      "cents": 500000,
+      "sourceRow": 42
+    },
+    {
+      "year": 2026,
+      "month": "Dezembro",
+      "spe": "193",
+      "product": "PATTEO VM",
+      "cents": 800000,
+      "sourceRow": 43
+    },
+    {
+      "year": 2026,
+      "month": "Dezembro",
+      "spe": "211",
+      "product": "HAVVA",
+      "cents": 0,
+      "sourceRow": 44
+    },
+    {
+      "year": 2026,
+      "month": "Dezembro",
+      "spe": "223",
+      "product": "COLLAGE",
+      "cents": 1500000,
+      "sourceRow": 45
+    },
+    {
+      "year": 2026,
+      "month": "Dezembro",
+      "spe": "208",
+      "product": "NEW PATTEO OSASCO",
+      "cents": 0,
+      "sourceRow": 46
+    },
+    {
+      "year": 2026,
+      "month": "Fevereiro",
+      "spe": "224",
+      "product": "BRK",
+      "cents": 1000000,
+      "sourceRow": 47
+    },
+    {
+      "year": 2026,
+      "month": "Fevereiro",
+      "spe": "183",
+      "product": "OPEN MIND",
+      "cents": 1000000,
+      "sourceRow": 48
+    },
+    {
+      "year": 2026,
+      "month": "Fevereiro",
+      "spe": "150",
+      "product": "W",
+      "cents": 1000000,
+      "sourceRow": 49
+    },
+    {
+      "year": 2026,
+      "month": "Fevereiro",
+      "spe": "187",
+      "product": "ARTEFACTO",
+      "cents": 500000,
+      "sourceRow": 50
+    },
+    {
+      "year": 2026,
+      "month": "Fevereiro",
+      "spe": "197",
+      "product": "CLUBE PATTEO SBC",
+      "cents": 150000,
+      "sourceRow": 51
+    },
+    {
+      "year": 2026,
+      "month": "Fevereiro",
+      "spe": "193",
+      "product": "PATTEO VM",
+      "cents": 0,
+      "sourceRow": 52
+    },
+    {
+      "year": 2026,
+      "month": "Fevereiro",
+      "spe": "202",
+      "product": "METROPOLITAN",
+      "cents": 300000,
+      "sourceRow": 53
+    },
+    {
+      "year": 2026,
+      "month": "Fevereiro",
+      "spe": "194",
+      "product": "CASA VN",
+      "cents": 250000,
+      "sourceRow": 54
+    },
+    {
+      "year": 2026,
+      "month": "Fevereiro",
+      "spe": "214",
+      "product": "CASA PIAUI",
+      "cents": 1000000,
+      "sourceRow": 55
+    },
+    {
+      "year": 2026,
+      "month": "Fevereiro",
+      "spe": "223",
+      "product": "COLLAGE",
+      "cents": 1000000,
+      "sourceRow": 56
+    },
+    {
+      "year": 2026,
+      "month": "Fevereiro",
+      "spe": "211",
+      "product": "HAVVA",
+      "cents": 1000000,
+      "sourceRow": 57
+    },
+    {
+      "year": 2026,
+      "month": "Fevereiro",
+      "spe": "221",
+      "product": "STAY MOEMA",
+      "cents": 500000,
+      "sourceRow": 58
+    },
+    {
+      "year": 2026,
+      "month": "Fevereiro",
+      "spe": "208",
+      "product": "NEW PATTEO OSASCO",
+      "cents": 200000,
+      "sourceRow": 59
+    },
+    {
+      "year": 2026,
+      "month": "Fevereiro",
+      "spe": "BUTANTA",
+      "product": "TO LIV",
+      "cents": 100000,
+      "sourceRow": 60
+    },
+    {
+      "year": 2026,
+      "month": "Fevereiro",
+      "spe": "ALDEN 4",
+      "product": "FAZENDA ITAPETY",
+      "cents": 650000,
+      "sourceRow": 61
+    },
+    {
+      "year": 2026,
+      "month": "Fevereiro",
+      "spe": "138",
+      "product": "ALEGRIA",
+      "cents": 330000,
+      "sourceRow": 62
+    },
+    {
+      "year": 2026,
+      "month": "Fevereiro",
+      "spe": "142",
+      "product": "PARQUE CLUBE IPOEMA",
+      "cents": 0,
+      "sourceRow": 63
+    },
+    {
+      "year": 2026,
+      "month": "Janeiro",
+      "spe": "224",
+      "product": "BRK",
+      "cents": 0,
+      "sourceRow": 64
+    },
+    {
+      "year": 2026,
+      "month": "Janeiro",
+      "spe": "183",
+      "product": "OPEN MIND",
+      "cents": 0,
+      "sourceRow": 65
+    },
+    {
+      "year": 2026,
+      "month": "Janeiro",
+      "spe": "150",
+      "product": "W",
+      "cents": 0,
+      "sourceRow": 66
+    },
+    {
+      "year": 2026,
+      "month": "Janeiro",
+      "spe": "187",
+      "product": "ARTEFACTO",
+      "cents": 0,
+      "sourceRow": 67
+    },
+    {
+      "year": 2026,
+      "month": "Janeiro",
+      "spe": "197",
+      "product": "CLUBE PATTEO SBC",
+      "cents": 0,
+      "sourceRow": 68
+    },
+    {
+      "year": 2026,
+      "month": "Janeiro",
+      "spe": "193",
+      "product": "PATTEO VM",
+      "cents": 0,
+      "sourceRow": 69
+    },
+    {
+      "year": 2026,
+      "month": "Janeiro",
+      "spe": "202",
+      "product": "METROPOLITAN",
+      "cents": 0,
+      "sourceRow": 70
+    },
+    {
+      "year": 2026,
+      "month": "Janeiro",
+      "spe": "194",
+      "product": "CASA VN",
+      "cents": 0,
+      "sourceRow": 71
+    },
+    {
+      "year": 2026,
+      "month": "Janeiro",
+      "spe": "214",
+      "product": "CASA PIAUI",
+      "cents": 0,
+      "sourceRow": 72
+    },
+    {
+      "year": 2026,
+      "month": "Janeiro",
+      "spe": "223",
+      "product": "COLLAGE",
+      "cents": 0,
+      "sourceRow": 73
+    },
+    {
+      "year": 2026,
+      "month": "Janeiro",
+      "spe": "211",
+      "product": "HAVVA",
+      "cents": 0,
+      "sourceRow": 74
+    },
+    {
+      "year": 2026,
+      "month": "Janeiro",
+      "spe": "221",
+      "product": "STAY MOEMA",
+      "cents": 0,
+      "sourceRow": 75
+    },
+    {
+      "year": 2026,
+      "month": "Janeiro",
+      "spe": "BUTANTA",
+      "product": "TO LIV",
+      "cents": 100000,
+      "sourceRow": 76
+    },
+    {
+      "year": 2026,
+      "month": "Janeiro",
+      "spe": "208",
+      "product": "NEW PATTEO OSASCO",
+      "cents": 200000,
+      "sourceRow": 77
+    },
+    {
+      "year": 2026,
+      "month": "Janeiro",
+      "spe": "138",
+      "product": "ALEGRIA",
+      "cents": 330000,
+      "sourceRow": 78
+    },
+    {
+      "year": 2026,
+      "month": "Janeiro",
+      "spe": "ALDEN 4",
+      "product": "FAZENDA ITAPETY",
+      "cents": 650000,
+      "sourceRow": 79
+    },
+    {
+      "year": 2026,
+      "month": "Julho",
+      "spe": "224",
+      "product": "BRK",
+      "cents": 0,
+      "sourceRow": 80
+    },
+    {
+      "year": 2026,
+      "month": "Julho",
+      "spe": "183",
+      "product": "OPEN MIND",
+      "cents": 0,
+      "sourceRow": 81
+    },
+    {
+      "year": 2026,
+      "month": "Julho",
+      "spe": "150",
+      "product": "W",
+      "cents": 0,
+      "sourceRow": 82
+    },
+    {
+      "year": 2026,
+      "month": "Julho",
+      "spe": "187",
+      "product": "ARTEFACTO",
+      "cents": 0,
+      "sourceRow": 83
+    },
+    {
+      "year": 2026,
+      "month": "Julho",
+      "spe": "197",
+      "product": "CLUBE PATTEO SBC",
+      "cents": 0,
+      "sourceRow": 84
+    },
+    {
+      "year": 2026,
+      "month": "Julho",
+      "spe": "193",
+      "product": "PATTEO VM",
+      "cents": 200000,
+      "sourceRow": 85
+    },
+    {
+      "year": 2026,
+      "month": "Julho",
+      "spe": "202",
+      "product": "METROPOLITAN",
+      "cents": 0,
+      "sourceRow": 86
+    },
+    {
+      "year": 2026,
+      "month": "Julho",
+      "spe": "194",
+      "product": "CASA VN",
+      "cents": 0,
+      "sourceRow": 87
+    },
+    {
+      "year": 2026,
+      "month": "Julho",
+      "spe": "214",
+      "product": "CASA PIAUI",
+      "cents": 0,
+      "sourceRow": 88
+    },
+    {
+      "year": 2026,
+      "month": "Julho",
+      "spe": "223",
+      "product": "COLLAGE",
+      "cents": 0,
+      "sourceRow": 89
+    },
+    {
+      "year": 2026,
+      "month": "Julho",
+      "spe": "211",
+      "product": "HAVVA",
+      "cents": 0,
+      "sourceRow": 90
+    },
+    {
+      "year": 2026,
+      "month": "Julho",
+      "spe": "221",
+      "product": "STAY MOEMA",
+      "cents": 1500000,
+      "sourceRow": 91
+    },
+    {
+      "year": 2026,
+      "month": "Julho",
+      "spe": "208",
+      "product": "NEW PATTEO OSASCO",
+      "cents": 0,
+      "sourceRow": 92
+    },
+    {
+      "year": 2026,
+      "month": "Julho",
+      "spe": "138",
+      "product": "ALEGRIA",
+      "cents": 330000,
+      "sourceRow": 93
+    },
+    {
+      "year": 2026,
+      "month": "Julho",
+      "spe": "ALDEN 4",
+      "product": "FAZENDA ITAPETY",
+      "cents": 650000,
+      "sourceRow": 94
+    },
+    {
+      "year": 2026,
+      "month": "Junho",
+      "spe": "224",
+      "product": "BRK",
+      "cents": 1000000,
+      "sourceRow": 95
+    },
+    {
+      "year": 2026,
+      "month": "Junho",
+      "spe": "183",
+      "product": "OPEN MIND",
+      "cents": 1000000,
+      "sourceRow": 96
+    },
+    {
+      "year": 2026,
+      "month": "Junho",
+      "spe": "150",
+      "product": "W",
+      "cents": 1000000,
+      "sourceRow": 97
+    },
+    {
+      "year": 2026,
+      "month": "Junho",
+      "spe": "187",
+      "product": "ARTEFACTO",
+      "cents": 500000,
+      "sourceRow": 98
+    },
+    {
+      "year": 2026,
+      "month": "Junho",
+      "spe": "197",
+      "product": "CLUBE PATTEO SBC",
+      "cents": 300000,
+      "sourceRow": 99
+    },
+    {
+      "year": 2026,
+      "month": "Junho",
+      "spe": "193",
+      "product": "PATTEO VM",
+      "cents": 200000,
+      "sourceRow": 100
+    },
+    {
+      "year": 2026,
+      "month": "Junho",
+      "spe": "202",
+      "product": "METROPOLITAN",
+      "cents": 300000,
+      "sourceRow": 101
+    },
+    {
+      "year": 2026,
+      "month": "Junho",
+      "spe": "194",
+      "product": "CASA VN",
+      "cents": 250000,
+      "sourceRow": 102
+    },
+    {
+      "year": 2026,
+      "month": "Junho",
+      "spe": "214",
+      "product": "CASA PIAUI",
+      "cents": 1000000,
+      "sourceRow": 103
+    },
+    {
+      "year": 2026,
+      "month": "Junho",
+      "spe": "223",
+      "product": "COLLAGE",
+      "cents": 1000000,
+      "sourceRow": 104
+    },
+    {
+      "year": 2026,
+      "month": "Junho",
+      "spe": "211",
+      "product": "HAVVA",
+      "cents": 1000000,
+      "sourceRow": 105
+    },
+    {
+      "year": 2026,
+      "month": "Junho",
+      "spe": "221",
+      "product": "STAY MOEMA",
+      "cents": 1500000,
+      "sourceRow": 106
+    },
+    {
+      "year": 2026,
+      "month": "Junho",
+      "spe": "208",
+      "product": "NEW PATTEO OSASCO",
+      "cents": 200000,
+      "sourceRow": 107
+    },
+    {
+      "year": 2026,
+      "month": "Junho",
+      "spe": "ALDEN 5",
+      "product": "FAZENDA ITAPETY",
+      "cents": 500000,
+      "sourceRow": 108
+    },
+    {
+      "year": 2026,
+      "month": "Junho",
+      "spe": "138",
+      "product": "ALEGRIA",
+      "cents": 500000,
+      "sourceRow": 109
+    },
+    {
+      "year": 2026,
+      "month": "Junho",
+      "spe": "142",
+      "product": "PARQUE CLUBE IPOEMA",
+      "cents": 500000,
+      "sourceRow": 110
+    },
+    {
+      "year": 2026,
+      "month": "Maio",
+      "spe": "224",
+      "product": "BRK",
+      "cents": 1000000,
+      "sourceRow": 111
+    },
+    {
+      "year": 2026,
+      "month": "Maio",
+      "spe": "183",
+      "product": "OPEN MIND",
+      "cents": 1000000,
+      "sourceRow": 112
+    },
+    {
+      "year": 2026,
+      "month": "Maio",
+      "spe": "150",
+      "product": "W",
+      "cents": 1000000,
+      "sourceRow": 113
+    },
+    {
+      "year": 2026,
+      "month": "Maio",
+      "spe": "187",
+      "product": "ARTEFACTO",
+      "cents": 500000,
+      "sourceRow": 114
+    },
+    {
+      "year": 2026,
+      "month": "Maio",
+      "spe": "197",
+      "product": "CLUBE PATTEO SBC",
+      "cents": 300000,
+      "sourceRow": 115
+    },
+    {
+      "year": 2026,
+      "month": "Maio",
+      "spe": "193",
+      "product": "PATTEO VM",
+      "cents": 200000,
+      "sourceRow": 116
+    },
+    {
+      "year": 2026,
+      "month": "Maio",
+      "spe": "202",
+      "product": "METROPOLITAN",
+      "cents": 300000,
+      "sourceRow": 117
+    },
+    {
+      "year": 2026,
+      "month": "Maio",
+      "spe": "194",
+      "product": "CASA VN",
+      "cents": 250000,
+      "sourceRow": 118
+    },
+    {
+      "year": 2026,
+      "month": "Maio",
+      "spe": "214",
+      "product": "CASA PIAUI",
+      "cents": 1000000,
+      "sourceRow": 119
+    },
+    {
+      "year": 2026,
+      "month": "Maio",
+      "spe": "223",
+      "product": "COLLAGE",
+      "cents": 1000000,
+      "sourceRow": 120
+    },
+    {
+      "year": 2026,
+      "month": "Maio",
+      "spe": "211",
+      "product": "HAVVA",
+      "cents": 1000000,
+      "sourceRow": 121
+    },
+    {
+      "year": 2026,
+      "month": "Maio",
+      "spe": "221",
+      "product": "STAY MOEMA",
+      "cents": 1500000,
+      "sourceRow": 122
+    },
+    {
+      "year": 2026,
+      "month": "Maio",
+      "spe": "208",
+      "product": "NEW PATTEO OSASCO",
+      "cents": 200000,
+      "sourceRow": 123
+    },
+    {
+      "year": 2026,
+      "month": "Maio",
+      "spe": "138",
+      "product": "ALEGRIA",
+      "cents": 650000,
+      "sourceRow": 124
+    },
+    {
+      "year": 2026,
+      "month": "Maio",
+      "spe": "ALDEN 4",
+      "product": "FAZENDA ITAPETY",
+      "cents": 330000,
+      "sourceRow": 125
+    },
+    {
+      "year": 2026,
+      "month": "Março",
+      "spe": "224",
+      "product": "BRK",
+      "cents": 1000000,
+      "sourceRow": 126
+    },
+    {
+      "year": 2026,
+      "month": "Março",
+      "spe": "183",
+      "product": "OPEN MIND",
+      "cents": 1000000,
+      "sourceRow": 127
+    },
+    {
+      "year": 2026,
+      "month": "Março",
+      "spe": "150",
+      "product": "W",
+      "cents": 1000000,
+      "sourceRow": 128
+    },
+    {
+      "year": 2026,
+      "month": "Março",
+      "spe": "187",
+      "product": "ARTEFACTO",
+      "cents": 500000,
+      "sourceRow": 129
+    },
+    {
+      "year": 2026,
+      "month": "Março",
+      "spe": "197",
+      "product": "CLUBE PATTEO SBC",
+      "cents": 300000,
+      "sourceRow": 130
+    },
+    {
+      "year": 2026,
+      "month": "Março",
+      "spe": "193",
+      "product": "PATTEO VM",
+      "cents": 200000,
+      "sourceRow": 131
+    },
+    {
+      "year": 2026,
+      "month": "Março",
+      "spe": "202",
+      "product": "METROPOLITAN",
+      "cents": 300000,
+      "sourceRow": 132
+    },
+    {
+      "year": 2026,
+      "month": "Março",
+      "spe": "194",
+      "product": "CASA VN",
+      "cents": 250000,
+      "sourceRow": 133
+    },
+    {
+      "year": 2026,
+      "month": "Março",
+      "spe": "214",
+      "product": "CASA PIAUI",
+      "cents": 1000000,
+      "sourceRow": 134
+    },
+    {
+      "year": 2026,
+      "month": "Março",
+      "spe": "223",
+      "product": "COLLAGE",
+      "cents": 1000000,
+      "sourceRow": 135
+    },
+    {
+      "year": 2026,
+      "month": "Março",
+      "spe": "211",
+      "product": "HAVVA",
+      "cents": 1000000,
+      "sourceRow": 136
+    },
+    {
+      "year": 2026,
+      "month": "Março",
+      "spe": "221",
+      "product": "STAY MOEMA",
+      "cents": 1500000,
+      "sourceRow": 137
+    },
+    {
+      "year": 2026,
+      "month": "Março",
+      "spe": "208",
+      "product": "NEW PATTEO OSASCO",
+      "cents": 200000,
+      "sourceRow": 138
+    },
+    {
+      "year": 2026,
+      "month": "Março",
+      "spe": "BUTANTA",
+      "product": "TO LIV",
+      "cents": 100000,
+      "sourceRow": 139
+    },
+    {
+      "year": 2026,
+      "month": "Março",
+      "spe": "ALDEN 4",
+      "product": "FAZENDA ITAPETY",
+      "cents": 650000,
+      "sourceRow": 140
+    },
+    {
+      "year": 2026,
+      "month": "Março",
+      "spe": "138",
+      "product": "ALEGRIA",
+      "cents": 330000,
+      "sourceRow": 141
+    },
+    {
+      "year": 2026,
+      "month": "Março",
+      "spe": "142",
+      "product": "PARQUE CLUBE IPOEMA",
+      "cents": 500000,
+      "sourceRow": 142
+    },
+    {
+      "year": 2026,
+      "month": "Dezembro",
+      "spe": "221",
+      "product": "STAY MOEMA",
+      "cents": 1500000,
+      "sourceRow": 143
+    },
+    {
+      "year": 2026,
+      "month": "Dezembro",
+      "spe": "138",
+      "product": "ALEGRIA",
+      "cents": 800000,
+      "sourceRow": 144
+    },
+    {
+      "year": 2026,
+      "month": "Dezembro",
+      "spe": "ALDEN 4",
+      "product": "FAZENDA ITAPETY",
+      "cents": 800000,
+      "sourceRow": 145
+    },
+    {
+      "year": 2026,
+      "month": "Dezembro",
+      "spe": "42",
+      "product": "PARQUE CLUBE IPOEMA",
+      "cents": 800000,
+      "sourceRow": 146
+    },
+    {
+      "year": 2026,
+      "month": "Novembro",
+      "spe": "224",
+      "product": "BRK",
+      "cents": 1000000,
+      "sourceRow": 147
+    },
+    {
+      "year": 2026,
+      "month": "Novembro",
+      "spe": "183",
+      "product": "OPEN MIND",
+      "cents": 1000000,
+      "sourceRow": 148
+    },
+    {
+      "year": 2026,
+      "month": "Novembro",
+      "spe": "150",
+      "product": "W",
+      "cents": 1000000,
+      "sourceRow": 149
+    },
+    {
+      "year": 2026,
+      "month": "Novembro",
+      "spe": "194",
+      "product": "CASA VN",
+      "cents": 0,
+      "sourceRow": 150
+    },
+    {
+      "year": 2026,
+      "month": "Novembro",
+      "spe": "187",
+      "product": "ARTEFACTO",
+      "cents": 500000,
+      "sourceRow": 151
+    },
+    {
+      "year": 2026,
+      "month": "Novembro",
+      "spe": "197",
+      "product": "CLUBE PATTEO SBC",
+      "cents": 300000,
+      "sourceRow": 152
+    },
+    {
+      "year": 2026,
+      "month": "Novembro",
+      "spe": "193",
+      "product": "PATTEO VM",
+      "cents": 800000,
+      "sourceRow": 153
+    },
+    {
+      "year": 2026,
+      "month": "Novembro",
+      "spe": "202",
+      "product": "METROPOLITAN",
+      "cents": 500000,
+      "sourceRow": 154
+    },
+    {
+      "year": 2026,
+      "month": "Novembro",
+      "spe": "208",
+      "product": "NEW PATTEO OSASCO",
+      "cents": 0,
+      "sourceRow": 155
+    },
+    {
+      "year": 2026,
+      "month": "Novembro",
+      "spe": "214",
+      "product": "CASA PIAUI",
+      "cents": 1000000,
+      "sourceRow": 156
+    },
+    {
+      "year": 2026,
+      "month": "Novembro",
+      "spe": "223",
+      "product": "COLLAGE",
+      "cents": 1500000,
+      "sourceRow": 157
+    },
+    {
+      "year": 2026,
+      "month": "Novembro",
+      "spe": "211",
+      "product": "HAVVA",
+      "cents": 1000000,
+      "sourceRow": 158
+    },
+    {
+      "year": 2026,
+      "month": "Novembro",
+      "spe": "ALDEN 8",
+      "product": "VILA ITAPETY",
+      "cents": 1000000,
+      "sourceRow": 159
+    },
+    {
+      "year": 2026,
+      "month": "Novembro",
+      "spe": "221",
+      "product": "STAY MOEMA",
+      "cents": 3000000,
+      "sourceRow": 160
+    },
+    {
+      "year": 2026,
+      "month": "Novembro",
+      "spe": "138",
+      "product": "ALEGRIA",
+      "cents": 800000,
+      "sourceRow": 161
+    },
+    {
+      "year": 2026,
+      "month": "Novembro",
+      "spe": "ALDEN 4",
+      "product": "FAZENDA ITAPETY",
+      "cents": 800000,
+      "sourceRow": 162
+    },
+    {
+      "year": 2026,
+      "month": "Novembro",
+      "spe": "42",
+      "product": "PARQUE CLUBE IPOEMA",
+      "cents": 800000,
+      "sourceRow": 163
+    },
+    {
+      "year": 2026,
+      "month": "Outubro",
+      "spe": "194",
+      "product": "CASA VN",
+      "cents": 0,
+      "sourceRow": 164
+    },
+    {
+      "year": 2026,
+      "month": "Outubro",
+      "spe": "224",
+      "product": "BRK",
+      "cents": 1000000,
+      "sourceRow": 165
+    },
+    {
+      "year": 2026,
+      "month": "Outubro",
+      "spe": "183",
+      "product": "OPEN MIND",
+      "cents": 1000000,
+      "sourceRow": 166
+    },
+    {
+      "year": 2026,
+      "month": "Outubro",
+      "spe": "150",
+      "product": "W",
+      "cents": 1000000,
+      "sourceRow": 167
+    },
+    {
+      "year": 2026,
+      "month": "Outubro",
+      "spe": "187",
+      "product": "ARTEFACTO",
+      "cents": 500000,
+      "sourceRow": 168
+    },
+    {
+      "year": 2026,
+      "month": "Outubro",
+      "spe": "208",
+      "product": "NEW PATTEO OSASCO",
+      "cents": 0,
+      "sourceRow": 169
+    },
+    {
+      "year": 2026,
+      "month": "Outubro",
+      "spe": "197",
+      "product": "CLUBE PATTEO SBC",
+      "cents": 300000,
+      "sourceRow": 170
+    },
+    {
+      "year": 2026,
+      "month": "Outubro",
+      "spe": "193",
+      "product": "PATTEO VM",
+      "cents": 800000,
+      "sourceRow": 171
+    },
+    {
+      "year": 2026,
+      "month": "Outubro",
+      "spe": "202",
+      "product": "METROPOLITAN",
+      "cents": 500000,
+      "sourceRow": 172
+    },
+    {
+      "year": 2026,
+      "month": "Outubro",
+      "spe": "ALDEN 8",
+      "product": "VILA ITAPETY",
+      "cents": 1000000,
+      "sourceRow": 173
+    },
+    {
+      "year": 2026,
+      "month": "Outubro",
+      "spe": "214",
+      "product": "CASA PIAUI",
+      "cents": 1000000,
+      "sourceRow": 174
+    },
+    {
+      "year": 2026,
+      "month": "Outubro",
+      "spe": "223",
+      "product": "COLLAGE",
+      "cents": 1500000,
+      "sourceRow": 175
+    },
+    {
+      "year": 2026,
+      "month": "Outubro",
+      "spe": "211",
+      "product": "HAVVA",
+      "cents": 1000000,
+      "sourceRow": 176
+    },
+    {
+      "year": 2026,
+      "month": "Outubro",
+      "spe": "221",
+      "product": "STAY MOEMA",
+      "cents": 3000000,
+      "sourceRow": 177
+    },
+    {
+      "year": 2026,
+      "month": "Setembro",
+      "spe": "194",
+      "product": "CASA VN",
+      "cents": 0,
+      "sourceRow": 178
+    },
+    {
+      "year": 2026,
+      "month": "Outubro",
+      "spe": "138",
+      "product": "ALEGRIA",
+      "cents": 800000,
+      "sourceRow": 179
+    },
+    {
+      "year": 2026,
+      "month": "Outubro",
+      "spe": "ALDEN 4",
+      "product": "FAZENDA ITAPETY",
+      "cents": 800000,
+      "sourceRow": 180
+    },
+    {
+      "year": 2026,
+      "month": "Outubro",
+      "spe": "42",
+      "product": "PARQUE CLUBE IPOEMA",
+      "cents": 800000,
+      "sourceRow": 181
+    },
+    {
+      "year": 2026,
+      "month": "Setembro",
+      "spe": "224",
+      "product": "BRK",
+      "cents": 1000000,
+      "sourceRow": 182
+    },
+    {
+      "year": 2026,
+      "month": "Setembro",
+      "spe": "208",
+      "product": "NEW PATTEO OSASCO",
+      "cents": 0,
+      "sourceRow": 183
+    },
+    {
+      "year": 2026,
+      "month": "Setembro",
+      "spe": "183",
+      "product": "OPEN MIND",
+      "cents": 1000000,
+      "sourceRow": 184
+    },
+    {
+      "year": 2026,
+      "month": "Setembro",
+      "spe": "150",
+      "product": "W",
+      "cents": 0,
+      "sourceRow": 185
+    },
+    {
+      "year": 2026,
+      "month": "Setembro",
+      "spe": "187",
+      "product": "ARTEFACTO",
+      "cents": 500000,
+      "sourceRow": 186
+    },
+    {
+      "year": 2026,
+      "month": "Setembro",
+      "spe": "197",
+      "product": "CLUBE PATTEO SBC",
+      "cents": 300000,
+      "sourceRow": 187
+    },
+    {
+      "year": 2026,
+      "month": "Setembro",
+      "spe": "193",
+      "product": "PATTEO VM",
+      "cents": 800000,
+      "sourceRow": 188
+    },
+    {
+      "year": 2026,
+      "month": "Setembro",
+      "spe": "202",
+      "product": "METROPOLITAN",
+      "cents": 1000000,
+      "sourceRow": 189
+    },
+    {
+      "year": 2026,
+      "month": "Setembro",
+      "spe": "214",
+      "product": "CASA PIAUI",
+      "cents": 1000000,
+      "sourceRow": 190
+    },
+    {
+      "year": 2026,
+      "month": "Setembro",
+      "spe": "223",
+      "product": "COLLAGE",
+      "cents": 1500000,
+      "sourceRow": 191
+    },
+    {
+      "year": 2026,
+      "month": "Setembro",
+      "spe": "211",
+      "product": "HAVVA",
+      "cents": 1000000,
+      "sourceRow": 192
+    },
+    {
+      "year": 2026,
+      "month": "Setembro",
+      "spe": "221",
+      "product": "STAY MOEMA",
+      "cents": 3500000,
+      "sourceRow": 193
+    },
+    {
+      "year": 2026,
+      "month": "Setembro",
+      "spe": "138",
+      "product": "ALEGRIA",
+      "cents": 800000,
+      "sourceRow": 194
+    },
+    {
+      "year": 2026,
+      "month": "Setembro",
+      "spe": "ALDEN 4",
+      "product": "FAZENDA ITAPETY",
+      "cents": 800000,
+      "sourceRow": 195
+    },
+    {
+      "year": 2026,
+      "month": "Setembro",
+      "spe": "42",
+      "product": "PARQUE CLUBE IPOEMA",
+      "cents": 800000,
+      "sourceRow": 196
+    },
+    {
+      "year": 2026,
+      "month": "Agosto",
+      "spe": "219",
+      "product": "LENS",
+      "cents": 3000000,
+      "sourceRow": 197
+    },
+    {
+      "year": 2026,
+      "month": "Setembro",
+      "spe": "ALDEN 8",
+      "product": "VILA ITAPETY",
+      "cents": 3000000,
+      "sourceRow": 198
+    },
+    {
+      "year": 2026,
+      "month": "Setembro",
+      "spe": "219",
+      "product": "LENS",
+      "cents": 3000000,
+      "sourceRow": 199
+    },
+    {
+      "year": 2026,
+      "month": "Outubro",
+      "spe": "219",
+      "product": "LENS",
+      "cents": 2000000,
+      "sourceRow": 200
+    },
+    {
+      "year": 2026,
+      "month": "Novembro",
+      "spe": "219",
+      "product": "LENS",
+      "cents": 1300000,
+      "sourceRow": 201
+    },
+    {
+      "year": 2026,
+      "month": "Maio",
+      "spe": "142",
+      "product": "PARQUE CLUBE IPOEMA",
+      "cents": 330000,
+      "sourceRow": 510
+    }
+  ],
+  "budgets": [
+    1280000,
+    8980000,
+    10830000,
+    10230000,
+    10560000,
+    10750000,
+    2680000,
+    17000000,
+    20000000,
+    17000000,
+    16300000,
+    7000000
+  ],
+  "expenses": [
+    0,
+    1438470,
+    12293781,
+    8081495,
+    18119563,
+    2580000,
+    3282125,
+    15972913,
+    11666733,
+    791200,
+    0,
+    0
+  ],
+  "categories": [
+    [
+      0,
+      1438470,
+      10168555,
+      6184234,
+      11589627,
+      380000,
+      2915479,
+      6244213,
+      5807964,
+      773200,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1525226,
+      786887,
+      1353738,
+      0,
+      0,
+      0,
+      2253275,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      600000,
+      1110374,
+      5176198,
+      2200000,
+      366646,
+      9728700,
+      3605494,
+      18000,
+      0,
+      0
+    ]
+  ],
+  "products": [
+    {
+      "name": "FAZENDA ITAPETY",
+      "values": [
+        0,
+        0,
+        5312000,
+        0,
+        3445655,
+        0,
+        0,
+        1985000,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "PATTEO VM",
+      "values": [
+        0,
+        260120,
+        792240,
+        0,
+        260200,
+        200000,
+        0,
+        756700,
+        799495,
+        90000,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "BRK",
+      "values": [
+        0,
+        0,
+        1082854,
+        883350,
+        2232656,
+        200000,
+        0,
+        942248,
+        1883629,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "STAY MOEMA",
+      "values": [
+        0,
+        0,
+        1485115,
+        2309702,
+        2704944,
+        380000,
+        0,
+        3518898,
+        1972435,
+        291600,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "NEW PATTEO OSASCO",
+      "values": [
+        0,
+        0,
+        200000,
+        0,
+        200167,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "METROPOLITAN",
+      "values": [
+        0,
+        0,
+        493200,
+        200000,
+        300167,
+        0,
+        350000,
+        320247,
+        715125,
+        100000,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "CASA PIAUI",
+      "values": [
+        0,
+        1178350,
+        211900,
+        456799,
+        897308,
+        0,
+        0,
+        103500,
+        587500,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "OPEN MIND",
+      "values": [
+        0,
+        0,
+        814818,
+        1309850,
+        607167,
+        0,
+        0,
+        1774170,
+        999935,
+        291600,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "COLLAGE",
+      "values": [
+        0,
+        0,
+        1113954,
+        493500,
+        1087019,
+        350000,
+        105000,
+        414000,
+        1692294,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "CASA VN",
+      "values": [
+        0,
+        0,
+        243900,
+        200000,
+        200000,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "ARTEFACTO",
+      "values": [
+        0,
+        0,
+        430000,
+        203374,
+        500000,
+        250000,
+        400000,
+        1447900,
+        499525,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "ALEGRIA",
+      "values": [
+        0,
+        0,
+        113800,
+        0,
+        0,
+        500000,
+        1456189,
+        1035000,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "W",
+      "values": [
+        0,
+        0,
+        0,
+        659850,
+        4423802,
+        0,
+        366646,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "HAVVA",
+      "values": [
+        0,
+        0,
+        0,
+        1365070,
+        687178,
+        500000,
+        249290,
+        1024500,
+        429525,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "CLUBE PATTEO SBC",
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        285000,
+        200000,
+        0,
+        155250,
+        153760,
+        18000,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "PARQUE CLUBE IPOEMA",
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        288300,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "LENS",
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        355000,
+        1667500,
+        776020,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "VILA ITAPETY",
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1157490,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "PARQUE CLUBE IPOEMA",
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        828000,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "id": "XLS-0-2",
+      "title": "Treinamento de Dual Patteo",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-03-17",
+      "requester": "LEAFAR",
+      "spe": "ALDEN 4",
+      "estimated": 0,
+      "realized": 8976,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:ALDEN 4",
+          "name": "FAZENDA ITAPETY",
+          "spe": "ALDEN 4",
+          "cents": 897600
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 2",
+        "mes": "Março",
+        "dataOriginal": "2026-03-17T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-3",
+      "title": "Treinamento de Plantão",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-02-17",
+      "requester": "RAJ",
+      "spe": "193",
+      "estimated": 0,
+      "realized": 2601.2,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:193",
+          "name": "PATTEO VM",
+          "spe": "193",
+          "cents": 260120
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 3",
+        "mes": "Fevereiro",
+        "dataOriginal": "2026-02-17T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-4",
+      "title": "Treinamento de Plantão",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-03-24",
+      "requester": "LARISSA",
+      "spe": "193",
+      "estimated": 0,
+      "realized": 2601.2,
+      "note": "Buffet de café da manhã",
+      "shares": [
+        {
+          "projectId": "spe:193",
+          "name": "PATTEO VM",
+          "spe": "193",
+          "cents": 260120
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 4",
+        "mes": "Março",
+        "dataOriginal": "2026-03-24T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-5",
+      "title": "Treinamento de Plantão",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-03-27",
+      "requester": "LEAFAR",
+      "spe": "193",
+      "estimated": 0,
+      "realized": 2601.2,
+      "note": "Buffet de café da manhã",
+      "shares": [
+        {
+          "projectId": "spe:193",
+          "name": "PATTEO VM",
+          "spe": "193",
+          "cents": 260120
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 5",
+        "mes": "Março",
+        "dataOriginal": "2026-03-27T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-6",
+      "title": "Roadshow Macapá-AP",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-03-23",
+      "requester": "BARBARA RISO",
+      "spe": "224, 221, 208, 202, 214, 193",
+      "estimated": 0,
+      "realized": 12469,
+      "note": "Restaurante + audivisual",
+      "shares": [
+        {
+          "projectId": "spe:224",
+          "name": "BRK",
+          "spe": "224",
+          "cents": 200000
+        },
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 493000
+        },
+        {
+          "projectId": "spe:208",
+          "name": "NEW PATTEO OSASCO",
+          "spe": "208",
+          "cents": 200000
+        },
+        {
+          "projectId": "spe:202",
+          "name": "METROPOLITAN",
+          "spe": "202",
+          "cents": 70000
+        },
+        {
+          "projectId": "spe:214",
+          "name": "CASA PIAUI",
+          "spe": "214",
+          "cents": 211900
+        },
+        {
+          "projectId": "spe:193",
+          "name": "PATTEO VM",
+          "spe": "193",
+          "cents": 72000
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 6",
+        "mes": "Março",
+        "dataOriginal": "2026-03-23T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-7",
+      "title": "Roadshow Vila Velha-ES",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-03-24",
+      "requester": "HORACIO",
+      "spe": "183, 223, 221, 224",
+      "estimated": 0,
+      "realized": 2836.97,
+      "note": "Espaço + audiovisual",
+      "shares": [
+        {
+          "projectId": "spe:183",
+          "name": "OPEN MIND",
+          "spe": "183",
+          "cents": 70000
+        },
+        {
+          "projectId": "spe:223",
+          "name": "COLLAGE",
+          "spe": "223",
+          "cents": 70000
+        },
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 70000
+        },
+        {
+          "projectId": "spe:224",
+          "name": "BRK",
+          "spe": "224",
+          "cents": 73697
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 7",
+        "mes": "Março",
+        "dataOriginal": "2026-03-24T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-8",
+      "title": "Roadshow Vila Velha-ES",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-03-24",
+      "requester": "HORACIO",
+      "spe": "183, 223, 194, 224, 187",
+      "estimated": 0,
+      "realized": 11056,
+      "note": "Shopping Praia da Costa",
+      "shares": [
+        {
+          "projectId": "spe:183",
+          "name": "OPEN MIND",
+          "spe": "183",
+          "cents": 243900
+        },
+        {
+          "projectId": "spe:223",
+          "name": "COLLAGE",
+          "spe": "223",
+          "cents": 243900
+        },
+        {
+          "projectId": "spe:194",
+          "name": "CASA VN",
+          "spe": "194",
+          "cents": 243900
+        },
+        {
+          "projectId": "spe:224",
+          "name": "BRK",
+          "spe": "224",
+          "cents": 243900
+        },
+        {
+          "projectId": "spe:187",
+          "name": "ARTEFACTO",
+          "spe": "187",
+          "cents": 130000
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 8",
+        "mes": "Março",
+        "dataOriginal": "2026-03-24T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-9",
+      "title": "Corujão",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-03-25",
+      "requester": "BARBARA RISO",
+      "spe": "223, 224",
+      "estimated": 0,
+      "realized": 913,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:223",
+          "name": "COLLAGE",
+          "spe": "223",
+          "cents": 45650
+        },
+        {
+          "projectId": "spe:224",
+          "name": "BRK",
+          "spe": "224",
+          "cents": 45650
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 9",
+        "mes": "Março",
+        "dataOriginal": "2026-03-25T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-10",
+      "title": "Café na Imobiliária",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-03-03",
+      "requester": "BARBARA RISO",
+      "spe": "221, 224",
+      "estimated": 0,
+      "realized": 2100,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 110000
+        },
+        {
+          "projectId": "spe:224",
+          "name": "BRK",
+          "spe": "224",
+          "cents": 100000
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 10",
+        "mes": "Março",
+        "dataOriginal": "2026-03-03T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-11",
+      "title": "Café na Imobiliária",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-03-05",
+      "requester": "BARBARA RISO",
+      "spe": "221",
+      "estimated": 0,
+      "realized": 609,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 60900
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 11",
+        "mes": "Março",
+        "dataOriginal": "2026-03-05T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-12",
+      "title": "Café Parceiros Ribeirão Preto",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-02-19",
+      "requester": "BARBARA RISO",
+      "spe": "214",
+      "estimated": 0,
+      "realized": 2057,
+      "note": "Café + van",
+      "shares": [
+        {
+          "projectId": "spe:214",
+          "name": "CASA PIAUI",
+          "spe": "214",
+          "cents": 205700
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 12",
+        "mes": "Fevereiro",
+        "dataOriginal": "2026-02-19T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-13",
+      "title": "Queijos e Vinhos",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-02-24",
+      "requester": "BIA",
+      "spe": "214",
+      "estimated": 0,
+      "realized": 6825,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:214",
+          "name": "CASA PIAUI",
+          "spe": "214",
+          "cents": 682500
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 13",
+        "mes": "Fevereiro",
+        "dataOriginal": "2026-02-24T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-14",
+      "title": "Brunch no stand",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-02-28",
+      "requester": "BIA",
+      "spe": "214",
+      "estimated": 0,
+      "realized": 2901.5,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:214",
+          "name": "CASA PIAUI",
+          "spe": "214",
+          "cents": 290150
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 14",
+        "mes": "Fevereiro",
+        "dataOriginal": "2026-02-28T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-15",
+      "title": "Premiere On em Mogi",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-03-18",
+      "requester": "LEAFAR",
+      "spe": "ALDEN 4",
+      "estimated": 0,
+      "realized": 22072,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:ALDEN 4",
+          "name": "FAZENDA ITAPETY",
+          "spe": "ALDEN 4",
+          "cents": 2207200
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 15",
+        "mes": "Março",
+        "dataOriginal": "2026-03-18T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-16",
+      "title": "Corujão",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-03-05",
+      "requester": "LEAFAR",
+      "spe": "138",
+      "estimated": 0,
+      "realized": 1138,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:138",
+          "name": "ALEGRIA",
+          "spe": "138",
+          "cents": 113800
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 16",
+        "mes": "Março",
+        "dataOriginal": "2026-03-05T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-17",
+      "title": "RoadShow Fortaleza",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-03-28",
+      "requester": "LARISSA",
+      "spe": "187, 202",
+      "estimated": 0,
+      "realized": 5232,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:187",
+          "name": "ARTEFACTO",
+          "spe": "187",
+          "cents": 300000
+        },
+        {
+          "projectId": "spe:202",
+          "name": "METROPOLITAN",
+          "spe": "202",
+          "cents": 223200
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 17",
+        "mes": "Março",
+        "dataOriginal": "2026-03-28T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-18",
+      "title": "RoadShow Mogi",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-03-18",
+      "requester": "LEAFAR",
+      "spe": "ALDEN 4",
+      "estimated": 0,
+      "realized": 22072,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:ALDEN 4",
+          "name": "FAZENDA ITAPETY",
+          "spe": "ALDEN 4",
+          "cents": 2207200
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 18",
+        "mes": "Março",
+        "dataOriginal": "2026-03-18T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-19",
+      "title": "Café no Stand",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-03-20",
+      "requester": "BARBARA RISO",
+      "spe": "224",
+      "estimated": 0,
+      "realized": 2000,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:224",
+          "name": "BRK",
+          "spe": "224",
+          "cents": 200000
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 19",
+        "mes": "Março",
+        "dataOriginal": "2026-03-20T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-20",
+      "title": "Tour W + Almoço Baio",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-03-05",
+      "requester": "BARBARA RISO",
+      "spe": "183",
+      "estimated": 0,
+      "realized": 5009.18,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:183",
+          "name": "OPEN MIND",
+          "spe": "183",
+          "cents": 500918
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 20",
+        "mes": "Março",
+        "dataOriginal": "2026-03-05T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-21",
+      "title": "RoadShow Manaus",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-04-09",
+      "requester": "FERNANDA",
+      "spe": "221, 224, 223",
+      "estimated": 0,
+      "realized": 8750,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 295000
+        },
+        {
+          "projectId": "spe:224",
+          "name": "BRK",
+          "spe": "224",
+          "cents": 290000
+        },
+        {
+          "projectId": "spe:223",
+          "name": "COLLAGE",
+          "spe": "223",
+          "cents": 290000
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 21",
+        "mes": "Abril",
+        "dataOriginal": "2026-04-09T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-22",
+      "title": "RoadShow Salvador",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-04-09",
+      "requester": "ANA",
+      "spe": "224, 183, 221, 150",
+      "estimated": 0,
+      "realized": 15594,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:224",
+          "name": "BRK",
+          "spe": "224",
+          "cents": 389850
+        },
+        {
+          "projectId": "spe:183",
+          "name": "OPEN MIND",
+          "spe": "183",
+          "cents": 389850
+        },
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 389850
+        },
+        {
+          "projectId": "spe:150",
+          "name": "W",
+          "spe": "150",
+          "cents": 389850
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 22",
+        "mes": "Abril",
+        "dataOriginal": "2026-04-09T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-23",
+      "title": "Almoço Campeões",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-04-28",
+      "requester": "BARBARA RISO",
+      "spe": "221",
+      "estimated": 0,
+      "realized": 11079.65,
+      "note": "Somente a comida, bebida paga pelo On (reembolso)",
+      "shares": [
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 1107965
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 23",
+        "mes": "Abril",
+        "dataOriginal": "2026-04-28T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-24",
+      "title": "Café no Stand",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-04-25",
+      "requester": "BARBARA RISO",
+      "spe": "214",
+      "estimated": 0,
+      "realized": 4567.99,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:214",
+          "name": "CASA PIAUI",
+          "spe": "214",
+          "cents": 456799
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 24",
+        "mes": "Abril",
+        "dataOriginal": "2026-04-25T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-25",
+      "title": "Queijos e Vinhos Parceiros",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-04-16",
+      "requester": "LARISSA",
+      "spe": "211",
+      "estimated": 0,
+      "realized": 12650.7,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:211",
+          "name": "HAVVA",
+          "spe": "211",
+          "cents": 1265070
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 25",
+        "mes": "Abril",
+        "dataOriginal": "2026-04-16T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-26",
+      "title": "Café no Stand",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-04-20",
+      "requester": "BARBARA RISO",
+      "spe": "183",
+      "estimated": 0,
+      "realized": 9200,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:183",
+          "name": "OPEN MIND",
+          "spe": "183",
+          "cents": 920000
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 26",
+        "mes": "Abril",
+        "dataOriginal": "2026-04-20T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-27",
+      "title": "RoadShow Fortaleza",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-05-07",
+      "requester": "BARBARA RISO",
+      "spe": "223, 224, 221, 183, 202, 150, 208, 193",
+      "estimated": 0,
+      "realized": 15261.69,
+      "note": "Restaurante + audivisual",
+      "shares": [
+        {
+          "projectId": "spe:223",
+          "name": "COLLAGE",
+          "spe": "223",
+          "cents": 200167
+        },
+        {
+          "projectId": "spe:224",
+          "name": "BRK",
+          "spe": "224",
+          "cents": 200167
+        },
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 200167
+        },
+        {
+          "projectId": "spe:183",
+          "name": "OPEN MIND",
+          "spe": "183",
+          "cents": 200167
+        },
+        {
+          "projectId": "spe:202",
+          "name": "METROPOLITAN",
+          "spe": "202",
+          "cents": 200167
+        },
+        {
+          "projectId": "spe:150",
+          "name": "W",
+          "spe": "150",
+          "cents": 200167
+        },
+        {
+          "projectId": "spe:208",
+          "name": "NEW PATTEO OSASCO",
+          "spe": "208",
+          "cents": 200167
+        },
+        {
+          "projectId": "spe:193",
+          "name": "PATTEO VM",
+          "spe": "193",
+          "cents": 125000
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 27",
+        "mes": "Maio",
+        "dataOriginal": "2026-05-07T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-28",
+      "title": "RoadShow Caruaru",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-05-14",
+      "requester": "REBECCA",
+      "spe": "183, 221, 223, 221",
+      "estimated": 0,
+      "realized": 8556.03,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:183",
+          "name": "OPEN MIND",
+          "spe": "183",
+          "cents": 207000
+        },
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 207000
+        },
+        {
+          "projectId": "spe:223",
+          "name": "COLLAGE",
+          "spe": "223",
+          "cents": 207000
+        },
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 234603
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 28",
+        "mes": "Maio",
+        "dataOriginal": "2026-05-14T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-29",
+      "title": "RoadShow Belo Horizonte",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-05-21",
+      "requester": "CLAUDIA",
+      "spe": "187, 194, 223, 214, 211, 197",
+      "estimated": 0,
+      "realized": 14292,
+      "note": "Restaurante + audivisual",
+      "shares": [
+        {
+          "projectId": "spe:187",
+          "name": "ARTEFACTO",
+          "spe": "187",
+          "cents": 400000
+        },
+        {
+          "projectId": "spe:194",
+          "name": "CASA VN",
+          "spe": "194",
+          "cents": 100000
+        },
+        {
+          "projectId": "spe:223",
+          "name": "COLLAGE",
+          "spe": "223",
+          "cents": 200000
+        },
+        {
+          "projectId": "spe:214",
+          "name": "CASA PIAUI",
+          "spe": "214",
+          "cents": 244200
+        },
+        {
+          "projectId": "spe:211",
+          "name": "HAVVA",
+          "spe": "211",
+          "cents": 200000
+        },
+        {
+          "projectId": "spe:197",
+          "name": "CLUBE PATTEO SBC",
+          "spe": "197",
+          "cents": 285000
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 29",
+        "mes": "Maio",
+        "dataOriginal": "2026-05-21T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-30",
+      "title": "Café na Imobiliária",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-05-07",
+      "requester": "BARBARA RISO",
+      "spe": "221",
+      "estimated": 0,
+      "realized": 2100,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 210000
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 30",
+        "mes": "Maio",
+        "dataOriginal": "2026-05-07T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-31",
+      "title": "RoasShow São Luis",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-05-13",
+      "requester": "HORACIO",
+      "spe": "223, 221, 224, 214",
+      "estimated": 0,
+      "realized": 9480,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:223",
+          "name": "COLLAGE",
+          "spe": "223",
+          "cents": 148000
+        },
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 300000
+        },
+        {
+          "projectId": "spe:224",
+          "name": "BRK",
+          "spe": "224",
+          "cents": 300000
+        },
+        {
+          "projectId": "spe:214",
+          "name": "CASA PIAUI",
+          "spe": "214",
+          "cents": 200000
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 31",
+        "mes": "Maio",
+        "dataOriginal": "2026-05-13T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-32",
+      "title": "Missão Alto Padrão",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-05-06",
+      "requester": "RAJ",
+      "spe": "211, 150",
+      "estimated": 0,
+      "realized": 43867,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:211",
+          "name": "HAVVA",
+          "spe": "211",
+          "cents": 404700
+        },
+        {
+          "projectId": "spe:150",
+          "name": "W",
+          "spe": "150",
+          "cents": 3982000
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 32",
+        "mes": "Maio",
+        "dataOriginal": "2026-05-06T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-33",
+      "title": "Brinde Café com Novidades",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-05-23",
+      "requester": "GERENTES MOGI",
+      "spe": "ALDEN 4",
+      "estimated": 0,
+      "realized": 5582,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:ALDEN 4",
+          "name": "FAZENDA ITAPETY",
+          "spe": "ALDEN 4",
+          "cents": 558200
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 33",
+        "mes": "Maio",
+        "dataOriginal": "2026-05-23T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-34",
+      "title": "Brinde Café com Novidades",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-05-30",
+      "requester": "GERENTES MOGI",
+      "spe": "ALDEN 4",
+      "estimated": 0,
+      "realized": 4286,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:ALDEN 4",
+          "name": "FAZENDA ITAPETY",
+          "spe": "ALDEN 4",
+          "cents": 428600
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 34",
+        "mes": "Maio",
+        "dataOriginal": "2026-05-30T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-35",
+      "title": "Café com Oportunidade",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-05-23",
+      "requester": "GERENTES MOGI",
+      "spe": "142",
+      "estimated": 0,
+      "realized": 2883,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:142",
+          "name": "PARQUE CLUBE IPOEMA",
+          "spe": "142",
+          "cents": 288300
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 35",
+        "mes": "Maio",
+        "dataOriginal": "2026-05-23T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-36",
+      "title": "Café com Oportunidade",
+      "type": "Evento",
+      "status": "Importada — revisar",
+      "date": "2025-05-30",
+      "requester": "GERENTES MOGI",
+      "spe": "142",
+      "estimated": 0,
+      "realized": 2883,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:142",
+          "name": "PARQUE CLUBE IPOEMA",
+          "spe": "142",
+          "cents": 288300
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 36",
+        "mes": "Maio",
+        "dataOriginal": "2025-05-30T00:00:00.000Z",
+        "pendencias": "Histórico fora de 2026"
+      }
+    },
+    {
+      "id": "XLS-0-37",
+      "title": "Rodada de Negocios",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-05-28",
+      "requester": "GERENTES MOGI",
+      "spe": "ALDEN 4",
+      "estimated": 0,
+      "realized": 9588.55,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:ALDEN 4",
+          "name": "FAZENDA ITAPETY",
+          "spe": "ALDEN 4",
+          "cents": 958855
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 37",
+        "mes": "Maio",
+        "dataOriginal": "2026-05-28T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-38",
+      "title": "Festa Junina Fortex",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-06-22",
+      "requester": "RAJ",
+      "spe": "221",
+      "estimated": 0,
+      "realized": 3800,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 380000
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 38",
+        "mes": "Junho",
+        "dataOriginal": "2026-06-22T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-39",
+      "title": "Café Imobiliária Escodelar",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-07-15",
+      "requester": "LARISSA",
+      "spe": "219, 223",
+      "estimated": 0,
+      "realized": 2100,
+      "note": "Buffet Café da Tarde - lh7",
+      "shares": [
+        {
+          "projectId": "spe:219",
+          "name": "LENS",
+          "spe": "219",
+          "cents": 105000
+        },
+        {
+          "projectId": "spe:223",
+          "name": "COLLAGE",
+          "spe": "223",
+          "cents": 105000
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 39",
+        "mes": "Julho",
+        "dataOriginal": "2026-07-15T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-40",
+      "title": "Café para parceiros",
+      "type": "Evento",
+      "status": "Importada — revisar",
+      "date": "2024-07-28",
+      "requester": "MARCO",
+      "spe": "183",
+      "estimated": 0,
+      "realized": 3490,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:183",
+          "name": "OPEN MIND",
+          "spe": "183",
+          "cents": 349000
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 40",
+        "mes": "Julho",
+        "dataOriginal": "2024-07-28T00:00:00.000Z",
+        "pendencias": "Histórico fora de 2026"
+      }
+    },
+    {
+      "id": "XLS-0-41",
+      "title": "Queijos e Vinhos Parceiros",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-07-30",
+      "requester": "RAJ",
+      "spe": "219, 202, 187, 211",
+      "estimated": 0,
+      "realized": 12492.9,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:219",
+          "name": "LENS",
+          "spe": "219",
+          "cents": 250000
+        },
+        {
+          "projectId": "spe:202",
+          "name": "METROPOLITAN",
+          "spe": "202",
+          "cents": 350000
+        },
+        {
+          "projectId": "spe:187",
+          "name": "ARTEFACTO",
+          "spe": "187",
+          "cents": 400000
+        },
+        {
+          "projectId": "spe:211",
+          "name": "HAVVA",
+          "spe": "211",
+          "cents": 249290
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 41",
+        "mes": "Julho",
+        "dataOriginal": "2026-07-30T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-42",
+      "title": "Festa Julhina Stand Alegria",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-07-31",
+      "requester": "João Bonanata",
+      "spe": "138",
+      "estimated": 0,
+      "realized": 14561.89,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:138",
+          "name": "ALEGRIA",
+          "spe": "138",
+          "cents": 1456189
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 42",
+        "mes": "Julho",
+        "dataOriginal": "2026-07-31T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-43",
+      "title": "Café Imobiliária",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-08-19",
+      "requester": "MARCO",
+      "spe": "219, 202, 193, 187",
+      "estimated": 0,
+      "realized": 4582.47,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:219",
+          "name": "LENS",
+          "spe": "219",
+          "cents": 115000
+        },
+        {
+          "projectId": "spe:202",
+          "name": "METROPOLITAN",
+          "spe": "202",
+          "cents": 113247
+        },
+        {
+          "projectId": "spe:193",
+          "name": "PATTEO VM",
+          "spe": "193",
+          "cents": 115000
+        },
+        {
+          "projectId": "spe:187",
+          "name": "ARTEFACTO",
+          "spe": "187",
+          "cents": 115000
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 43",
+        "mes": "Agosto",
+        "dataOriginal": "2026-08-19T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-44",
+      "title": "Caixas Personalizadas",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-08-25",
+      "requester": "Cris",
+      "spe": "183",
+      "estimated": 0,
+      "realized": 2650,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:183",
+          "name": "OPEN MIND",
+          "spe": "183",
+          "cents": 265000
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 44",
+        "mes": "Agosto",
+        "dataOriginal": "2026-08-25T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-45",
+      "title": "Almoço Pobre Juan Morumbi",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-08-28",
+      "requester": "Raj / Cris",
+      "spe": "183, 224, 221",
+      "estimated": 0,
+      "realized": 10469.66,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:183",
+          "name": "OPEN MIND",
+          "spe": "183",
+          "cents": 342770
+        },
+        {
+          "projectId": "spe:224",
+          "name": "BRK",
+          "spe": "224",
+          "cents": 334598
+        },
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 369598
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 45",
+        "mes": "Agosto",
+        "dataOriginal": "2026-08-28T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-46",
+      "title": "Queijos e Vinhos Parceiros",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-08-20",
+      "requester": "João Bonanata",
+      "spe": "ALDEN 4",
+      "estimated": 0,
+      "realized": 9500,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:ALDEN 4",
+          "name": "FAZENDA ITAPETY",
+          "spe": "ALDEN 4",
+          "cents": 950000
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 46",
+        "mes": "Agosto",
+        "dataOriginal": "2026-08-20T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-47",
+      "title": "Ecossistema MLS (Jul/26)",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-08-21",
+      "requester": "Não informado",
+      "spe": "224, 221, 183, 223",
+      "estimated": 0,
+      "realized": 10350,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:224",
+          "name": "BRK",
+          "spe": "224",
+          "cents": 258750
+        },
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 258750
+        },
+        {
+          "projectId": "spe:183",
+          "name": "OPEN MIND",
+          "spe": "183",
+          "cents": 258750
+        },
+        {
+          "projectId": "spe:223",
+          "name": "COLLAGE",
+          "spe": "223",
+          "cents": 258750
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 47",
+        "mes": "Agosto",
+        "dataOriginal": "2026-08-21T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-48",
+      "title": "Oferta Ativa / Treinamento",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-08-27",
+      "requester": "Horácio",
+      "spe": "187",
+      "estimated": 0,
+      "realized": 5629.5,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:187",
+          "name": "ARTEFACTO",
+          "spe": "187",
+          "cents": 562950
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 48",
+        "mes": "Agosto",
+        "dataOriginal": "2026-08-27T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-49",
+      "title": "Almoço Baio Dia do corretor",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-08-27",
+      "requester": "RAJ",
+      "spe": "221",
+      "estimated": 0,
+      "realized": 3164,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 316400
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 49",
+        "mes": "Agosto",
+        "dataOriginal": "2026-08-27T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-50",
+      "title": "Café de treinamento | Dia do Corretor",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-08-27",
+      "requester": "Horácio",
+      "spe": "187",
+      "estimated": 0,
+      "realized": 5629.5,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:187",
+          "name": "ARTEFACTO",
+          "spe": "187",
+          "cents": 562950
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 50",
+        "mes": "Agosto",
+        "dataOriginal": "2026-08-27T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-51",
+      "title": "Almoço Parceiros",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-08-28",
+      "requester": "Raj",
+      "spe": "183, 221, 224",
+      "estimated": 0,
+      "realized": 10467,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:183",
+          "name": "OPEN MIND",
+          "spe": "183",
+          "cents": 348900
+        },
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 348900
+        },
+        {
+          "projectId": "spe:224",
+          "name": "BRK",
+          "spe": "224",
+          "cents": 348900
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 51",
+        "mes": "Agosto",
+        "dataOriginal": "2026-08-28T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-52",
+      "title": "Evento Rib. Preto",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-09-01",
+      "requester": "CLUADIA",
+      "spe": "202, 219, 211, 187",
+      "estimated": 0,
+      "realized": 17181,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:202",
+          "name": "METROPOLITAN",
+          "spe": "202",
+          "cents": 429525
+        },
+        {
+          "projectId": "spe:219",
+          "name": "LENS",
+          "spe": "219",
+          "cents": 429525
+        },
+        {
+          "projectId": "spe:211",
+          "name": "HAVVA",
+          "spe": "211",
+          "cents": 429525
+        },
+        {
+          "projectId": "spe:187",
+          "name": "ARTEFACTO",
+          "spe": "187",
+          "cents": 429525
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 52",
+        "mes": "Setembro",
+        "dataOriginal": "2026-09-01T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-53",
+      "title": "Evento Souza Franco",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-09-12",
+      "requester": "Cauani",
+      "spe": "ALDEN 8",
+      "estimated": 0,
+      "realized": 10202.4,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:ALDEN 8",
+          "name": "VILA ITAPETY",
+          "spe": "ALDEN 8",
+          "cents": 1020240
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 53",
+        "mes": "Setembro",
+        "dataOriginal": "2026-09-12T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-54",
+      "title": "Kit Lanche",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-09-22",
+      "requester": "João Bonanata",
+      "spe": "ALDEN 8",
+      "estimated": 0,
+      "realized": 1372.5,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:ALDEN 8",
+          "name": "VILA ITAPETY",
+          "spe": "ALDEN 8",
+          "cents": 137250
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 54",
+        "mes": "Setembro",
+        "dataOriginal": "2026-09-22T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-55",
+      "title": "Jantar clientes potenciais",
+      "type": "Evento",
+      "status": "Importada — revisar",
+      "date": "",
+      "requester": "João Bonanata",
+      "spe": "ALDEN 8",
+      "estimated": 0,
+      "realized": 35153.87,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:ALDEN 8",
+          "name": "VILA ITAPETY",
+          "spe": "ALDEN 8",
+          "cents": 3515387
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 55",
+        "mes": "Setembro",
+        "dataOriginal": "9/22/0206",
+        "pendencias": "Data inválida"
+      }
+    },
+    {
+      "id": "XLS-0-56",
+      "title": "Roadshow Espirito Santo - Jantar",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-09-23",
+      "requester": "Raj/ Bárbara",
+      "spe": "221, 183, 224",
+      "estimated": 0,
+      "realized": 10969.2,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 365640
+        },
+        {
+          "projectId": "spe:183",
+          "name": "OPEN MIND",
+          "spe": "183",
+          "cents": 365640
+        },
+        {
+          "projectId": "spe:224",
+          "name": "BRK",
+          "spe": "224",
+          "cents": 365640
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 56",
+        "mes": "Setembro",
+        "dataOriginal": "2026-09-23T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-57",
+      "title": "Kit Lanche",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-09-14",
+      "requester": "Mariana",
+      "spe": "197",
+      "estimated": 0,
+      "realized": 1537.6,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:197",
+          "name": "CLUBE PATTEO SBC",
+          "spe": "197",
+          "cents": 153760
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 57",
+        "mes": "Setembro",
+        "dataOriginal": "2026-09-14T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-58",
+      "title": "Tour por Empreendimentos",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-09-14",
+      "requester": "Claudia",
+      "spe": "193",
+      "estimated": 0,
+      "realized": 800,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:193",
+          "name": "PATTEO VM",
+          "spe": "193",
+          "cents": 80000
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 58",
+        "mes": "Setembro",
+        "dataOriginal": "2026-09-14T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-59",
+      "title": "Mídia Day para o Open Mind",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-09-22",
+      "requester": "Camila",
+      "spe": "183",
+      "estimated": 0,
+      "realized": 1118,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:183",
+          "name": "OPEN MIND",
+          "spe": "183",
+          "cents": 111800
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 59",
+        "mes": "Setembro",
+        "dataOriginal": "2026-09-22T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-60",
+      "title": "Roadshow Maringá",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-09-23",
+      "requester": "Silvia/ Santos",
+      "spe": "224",
+      "estimated": 0,
+      "realized": 11714.94,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:224",
+          "name": "BRK",
+          "spe": "224",
+          "cents": 1171494
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 60",
+        "mes": "Setembro",
+        "dataOriginal": "2026-09-23T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-61",
+      "title": "Kit Lanche",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-09-15",
+      "requester": "Raj",
+      "spe": "202",
+      "estimated": 0,
+      "realized": 2056,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:202",
+          "name": "METROPOLITAN",
+          "spe": "202",
+          "cents": 205600
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 61",
+        "mes": "Setembro",
+        "dataOriginal": "2026-09-15T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-62",
+      "title": "Kit Lanche",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-09-17",
+      "requester": "Claudia",
+      "spe": "221",
+      "estimated": 0,
+      "realized": 1128,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 112800
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 62",
+        "mes": "Setembro",
+        "dataOriginal": "2026-09-17T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-63",
+      "title": "Mídia Day para o VM125",
+      "type": "Evento",
+      "status": "Importada — revisar",
+      "date": "2026-10-06",
+      "requester": "Camila",
+      "spe": "220",
+      "estimated": 0,
+      "realized": 2380,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:220",
+          "name": "SPE 220",
+          "spe": "220",
+          "cents": 238000
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 63",
+        "mes": "Outubro",
+        "dataOriginal": "2026-10-06T00:00:00.000Z",
+        "pendencias": "SPE sem cadastro"
+      }
+    },
+    {
+      "id": "XLS-0-64",
+      "title": "Mídia Day para o VM125",
+      "type": "Evento",
+      "status": "Importada — revisar",
+      "date": "2026-06-02",
+      "requester": "Camila",
+      "spe": "220",
+      "estimated": 0,
+      "realized": 0,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:220",
+          "name": "SPE 220",
+          "spe": "220",
+          "cents": 0
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 64",
+        "mes": "Outubro",
+        "dataOriginal": "2026-06-02T00:00:00.000Z",
+        "pendencias": "Competência divergente da data; Custo zerado; SPE sem cadastro"
+      }
+    },
+    {
+      "id": "XLS-0-65",
+      "title": "Café Imobiliária",
+      "type": "Evento",
+      "status": "Importada — revisar",
+      "date": "2026-10-08",
+      "requester": "Barbara",
+      "spe": "183, 221, 220",
+      "estimated": 0,
+      "realized": 5050.5,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:183",
+          "name": "OPEN MIND",
+          "spe": "183",
+          "cents": 168350
+        },
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 168350
+        },
+        {
+          "projectId": "spe:220",
+          "name": "SPE 220",
+          "spe": "220",
+          "cents": 168350
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 65",
+        "mes": "Outubro",
+        "dataOriginal": "2026-10-08T00:00:00.000Z",
+        "pendencias": "SPE sem cadastro"
+      }
+    },
+    {
+      "id": "XLS-0-66",
+      "title": "Café na Imobiliária Vita Home",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-10-14",
+      "requester": "Santos",
+      "spe": "202, 193",
+      "estimated": 0,
+      "realized": 1900,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:202",
+          "name": "METROPOLITAN",
+          "spe": "202",
+          "cents": 100000
+        },
+        {
+          "projectId": "spe:193",
+          "name": "PATTEO VM",
+          "spe": "193",
+          "cents": 90000
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 66",
+        "mes": "Outubro",
+        "dataOriginal": "2026-10-14T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-67",
+      "title": "Café na Imobiliária Revenda - Frei Caneca",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-10-14",
+      "requester": "Márcio",
+      "spe": "221, 183",
+      "estimated": 0,
+      "realized": 2916,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 145800
+        },
+        {
+          "projectId": "spe:183",
+          "name": "OPEN MIND",
+          "spe": "183",
+          "cents": 145800
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 67",
+        "mes": "Outubro",
+        "dataOriginal": "2026-10-14T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-68",
+      "title": "Café na Imobiliária Revenda - Anhaia Mello",
+      "type": "Evento",
+      "status": "Importada",
+      "date": "2026-10-15",
+      "requester": "Márcio",
+      "spe": "221, 183",
+      "estimated": 0,
+      "realized": 2916,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 145800
+        },
+        {
+          "projectId": "spe:183",
+          "name": "OPEN MIND",
+          "spe": "183",
+          "cents": 145800
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 68",
+        "mes": "Outubro",
+        "dataOriginal": "2026-10-15T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-0-69",
+      "title": "Kit Lanche",
+      "type": "Evento",
+      "status": "Importada — revisar",
+      "date": "2026-10-20",
+      "requester": "Santos",
+      "spe": "220, 183",
+      "estimated": 0,
+      "realized": 1652.5,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:220",
+          "name": "SPE 220",
+          "spe": "220",
+          "cents": 82625
+        },
+        {
+          "projectId": "spe:183",
+          "name": "OPEN MIND",
+          "spe": "183",
+          "cents": 82625
+        }
+      ],
+      "details": {
+        "origem": "Eventos, linha 69",
+        "mes": "Outubro",
+        "dataOriginal": "2026-10-20T00:00:00.000Z",
+        "pendencias": "SPE sem cadastro"
+      }
+    },
+    {
+      "id": "XLS-1-2",
+      "title": "Roadshow Macapá",
+      "type": "Hospedagem",
+      "status": "Importada",
+      "date": "2026-03-23",
+      "requester": "Janaina",
+      "spe": "224",
+      "estimated": 0,
+      "realized": 1196.07,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:224",
+          "name": "BRK",
+          "spe": "224",
+          "cents": 119607
+        }
+      ],
+      "details": {
+        "origem": "Passagens. Hotel, linha 2",
+        "mes": "Março",
+        "dataOriginal": "2026-03-23T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-1-3",
+      "title": "Roadshow Vila Velha",
+      "type": "Passagem aérea",
+      "status": "Importada",
+      "date": "2026-03-24",
+      "requester": "Bruno",
+      "spe": "221",
+      "estimated": 0,
+      "realized": 3745.19,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 374519
+        }
+      ],
+      "details": {
+        "origem": "Passagens. Hotel, linha 3",
+        "mes": "Março",
+        "dataOriginal": "2026-03-24T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-1-4",
+      "title": "Roadshow Vila Velha",
+      "type": "Hospedagem",
+      "status": "Importada",
+      "date": "2026-03-26",
+      "requester": "Bruno",
+      "spe": "221",
+      "estimated": 0,
+      "realized": 3766.96,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 376696
+        }
+      ],
+      "details": {
+        "origem": "Passagens. Hotel, linha 4",
+        "mes": "Março",
+        "dataOriginal": "2026-03-26T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-1-5",
+      "title": "Roadshow Sinop MT",
+      "type": "Passagem aérea",
+      "status": "Importada",
+      "date": "2026-03-26",
+      "requester": "Janaina",
+      "spe": "223",
+      "estimated": 0,
+      "realized": 6127.78,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:223",
+          "name": "COLLAGE",
+          "spe": "223",
+          "cents": 612778
+        }
+      ],
+      "details": {
+        "origem": "Passagens. Hotel, linha 5",
+        "mes": "Março",
+        "dataOriginal": "2026-03-26T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-1-6",
+      "title": "Roadshow Sinop MT",
+      "type": "Hospedagem",
+      "status": "Importada",
+      "date": "2026-03-24",
+      "requester": "Janaina",
+      "spe": "223",
+      "estimated": 0,
+      "realized": 416.26,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:223",
+          "name": "COLLAGE",
+          "spe": "223",
+          "cents": 41626
+        }
+      ],
+      "details": {
+        "origem": "Passagens. Hotel, linha 6",
+        "mes": "Março",
+        "dataOriginal": "2026-03-24T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-1-7",
+      "title": "RoadShow Manaus",
+      "type": "Passagem aérea",
+      "status": "Importada",
+      "date": "2026-04-09",
+      "requester": "Bruno",
+      "spe": "221",
+      "estimated": 0,
+      "realized": 3168.87,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 316887
+        }
+      ],
+      "details": {
+        "origem": "Passagens. Hotel, linha 7",
+        "mes": "Abril",
+        "dataOriginal": "2026-04-09T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-1-8",
+      "title": "RoadShow Manaus",
+      "type": "Hospedagem",
+      "status": "Importada",
+      "date": "2026-04-09",
+      "requester": "Bruno",
+      "spe": "221",
+      "estimated": 0,
+      "realized": 2000,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 200000
+        }
+      ],
+      "details": {
+        "origem": "Passagens. Hotel, linha 8",
+        "mes": "Abril",
+        "dataOriginal": "2026-04-09T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-1-9",
+      "title": "RoadShow Salvador",
+      "type": "Passagem aérea",
+      "status": "Importada",
+      "date": "2026-04-09",
+      "requester": "Ana",
+      "spe": "150",
+      "estimated": 0,
+      "realized": 1350,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:150",
+          "name": "W",
+          "spe": "150",
+          "cents": 135000
+        }
+      ],
+      "details": {
+        "origem": "Passagens. Hotel, linha 9",
+        "mes": "Abril",
+        "dataOriginal": "2026-04-09T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-1-10",
+      "title": "RoadShow Salvador",
+      "type": "Hospedagem",
+      "status": "Importada",
+      "date": "2026-04-09",
+      "requester": "Ana",
+      "spe": "150",
+      "estimated": 0,
+      "realized": 1350,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:150",
+          "name": "W",
+          "spe": "150",
+          "cents": 135000
+        }
+      ],
+      "details": {
+        "origem": "Passagens. Hotel, linha 10",
+        "mes": "Abril",
+        "dataOriginal": "2026-04-09T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-1-11",
+      "title": "RoadShow Fortaleza",
+      "type": "Passagem aérea",
+      "status": "Importada",
+      "date": "2026-05-07",
+      "requester": "Janaina",
+      "spe": "223",
+      "estimated": 0,
+      "realized": 1972.89,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:223",
+          "name": "COLLAGE",
+          "spe": "223",
+          "cents": 197289
+        }
+      ],
+      "details": {
+        "origem": "Passagens. Hotel, linha 11",
+        "mes": "Maio",
+        "dataOriginal": "2026-05-07T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-1-12",
+      "title": "RoadShow Fortaleza",
+      "type": "Hospedagem",
+      "status": "Importada",
+      "date": "2026-05-07",
+      "requester": "Janaina",
+      "spe": "224",
+      "estimated": 0,
+      "realized": 1972.89,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:224",
+          "name": "BRK",
+          "spe": "224",
+          "cents": 197289
+        }
+      ],
+      "details": {
+        "origem": "Passagens. Hotel, linha 12",
+        "mes": "Maio",
+        "dataOriginal": "2026-05-07T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-1-13",
+      "title": "RoadShow Caruaru",
+      "type": "Passagem aérea",
+      "status": "Importada",
+      "date": "2026-05-14",
+      "requester": "Gislaine",
+      "spe": "221",
+      "estimated": 0,
+      "realized": 1265.87,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 126587
+        }
+      ],
+      "details": {
+        "origem": "Passagens. Hotel, linha 13",
+        "mes": "Maio",
+        "dataOriginal": "2026-05-14T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-1-14",
+      "title": "RoadShow Caruaru",
+      "type": "Hospedagem",
+      "status": "Importada",
+      "date": "2026-05-14",
+      "requester": "Gislaine",
+      "spe": "221",
+      "estimated": 0,
+      "realized": 1265.87,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 126587
+        }
+      ],
+      "details": {
+        "origem": "Passagens. Hotel, linha 14",
+        "mes": "Maio",
+        "dataOriginal": "2026-05-14T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-1-15",
+      "title": "Roadshow Belo Horizonte",
+      "type": "Hospedagem",
+      "status": "Importada",
+      "date": "2026-05-21",
+      "requester": "Rafaela",
+      "spe": "224",
+      "estimated": 0,
+      "realized": 1352,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:224",
+          "name": "BRK",
+          "spe": "224",
+          "cents": 135200
+        }
+      ],
+      "details": {
+        "origem": "Passagens. Hotel, linha 15",
+        "mes": "Maio",
+        "dataOriginal": "2026-05-21T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-1-16",
+      "title": "Roadshow Belo Horizonte",
+      "type": "Passagem aérea",
+      "status": "Importada",
+      "date": "2026-05-21",
+      "requester": "Rafaela",
+      "spe": "193",
+      "estimated": 0,
+      "realized": 1352,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:193",
+          "name": "PATTEO VM",
+          "spe": "193",
+          "cents": 135200
+        }
+      ],
+      "details": {
+        "origem": "Passagens. Hotel, linha 16",
+        "mes": "Maio",
+        "dataOriginal": "2026-05-21T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-1-17",
+      "title": "RoadShow Brasilia",
+      "type": "Passagem aérea",
+      "status": "Importada",
+      "date": "2026-05-31",
+      "requester": "Virginea",
+      "spe": "211",
+      "estimated": 0,
+      "realized": 824.78,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:211",
+          "name": "HAVVA",
+          "spe": "211",
+          "cents": 82478
+        }
+      ],
+      "details": {
+        "origem": "Passagens. Hotel, linha 17",
+        "mes": "Maio",
+        "dataOriginal": "2026-05-31T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-1-18",
+      "title": "RoadShow Brasilia",
+      "type": "Hospedagem",
+      "status": "Importada",
+      "date": "2026-05-31",
+      "requester": "Virginea",
+      "spe": "214",
+      "estimated": 0,
+      "realized": 3531.08,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:214",
+          "name": "CASA PIAUI",
+          "spe": "214",
+          "cents": 353108
+        }
+      ],
+      "details": {
+        "origem": "Passagens. Hotel, linha 18",
+        "mes": "Maio",
+        "dataOriginal": "2026-05-31T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-1-19",
+      "title": "Roadshow Espírito Santo",
+      "type": "Passagem aérea",
+      "status": "Importada",
+      "date": "2026-09-23",
+      "requester": "Ana",
+      "spe": "183",
+      "estimated": 0,
+      "realized": 2625.75,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:183",
+          "name": "OPEN MIND",
+          "spe": "183",
+          "cents": 262575
+        }
+      ],
+      "details": {
+        "origem": "Passagens. Hotel, linha 19",
+        "mes": "Setembro",
+        "dataOriginal": "2026-09-23T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-1-20",
+      "title": "Roadshow Espírito Santo",
+      "type": "Passagem aérea",
+      "status": "Importada",
+      "date": "2026-09-23",
+      "requester": "Ana",
+      "spe": "224",
+      "estimated": 0,
+      "realized": 2625.75,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:224",
+          "name": "BRK",
+          "spe": "224",
+          "cents": 262575
+        }
+      ],
+      "details": {
+        "origem": "Passagens. Hotel, linha 20",
+        "mes": "Setembro",
+        "dataOriginal": "2026-09-23T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-1-21",
+      "title": "Roadshow Espírito Santo",
+      "type": "Passagem aérea",
+      "status": "Importada",
+      "date": "2026-09-23",
+      "requester": "Ana",
+      "spe": "219",
+      "estimated": 0,
+      "realized": 2625.75,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:219",
+          "name": "LENS",
+          "spe": "219",
+          "cents": 262575
+        }
+      ],
+      "details": {
+        "origem": "Passagens. Hotel, linha 21",
+        "mes": "Setembro",
+        "dataOriginal": "2026-09-23T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-1-22",
+      "title": "Roadshow Espírito Santo",
+      "type": "Passagem aérea",
+      "status": "Importada",
+      "date": "2026-09-23",
+      "requester": "Ana",
+      "spe": "193",
+      "estimated": 0,
+      "realized": 2625.75,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:193",
+          "name": "PATTEO VM",
+          "spe": "193",
+          "cents": 262575
+        }
+      ],
+      "details": {
+        "origem": "Passagens. Hotel, linha 22",
+        "mes": "Setembro",
+        "dataOriginal": "2026-09-23T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-1-23",
+      "title": "Roadshow Espírito Santo",
+      "type": "Passagem aérea",
+      "status": "Importada",
+      "date": "2026-09-23",
+      "requester": "Ana",
+      "spe": "221",
+      "estimated": 0,
+      "realized": 2625.75,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 262575
+        }
+      ],
+      "details": {
+        "origem": "Passagens. Hotel, linha 23",
+        "mes": "Setembro",
+        "dataOriginal": "2026-09-23T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-1-24",
+      "title": "Roadshow Espírito Santo",
+      "type": "Passagem aérea",
+      "status": "Importada",
+      "date": "2026-09-23",
+      "requester": "Ana",
+      "spe": "183",
+      "estimated": 0,
+      "realized": 839.2,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:183",
+          "name": "OPEN MIND",
+          "spe": "183",
+          "cents": 83920
+        }
+      ],
+      "details": {
+        "origem": "Passagens. Hotel, linha 24",
+        "mes": "Setembro",
+        "dataOriginal": "2026-09-23T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-1-25",
+      "title": "Roadshow Espírito Santo",
+      "type": "Passagem aérea",
+      "status": "Importada",
+      "date": "2026-09-23",
+      "requester": "Ana",
+      "spe": "224",
+      "estimated": 0,
+      "realized": 839.2,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:224",
+          "name": "BRK",
+          "spe": "224",
+          "cents": 83920
+        }
+      ],
+      "details": {
+        "origem": "Passagens. Hotel, linha 25",
+        "mes": "Setembro",
+        "dataOriginal": "2026-09-23T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-1-26",
+      "title": "Roadshow Espírito Santo",
+      "type": "Passagem aérea",
+      "status": "Importada",
+      "date": "2026-09-23",
+      "requester": "Ana",
+      "spe": "219",
+      "estimated": 0,
+      "realized": 839.2,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:219",
+          "name": "LENS",
+          "spe": "219",
+          "cents": 83920
+        }
+      ],
+      "details": {
+        "origem": "Passagens. Hotel, linha 26",
+        "mes": "Setembro",
+        "dataOriginal": "2026-09-23T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-1-27",
+      "title": "Roadshow Espírito Santo",
+      "type": "Passagem aérea",
+      "status": "Importada",
+      "date": "2026-09-23",
+      "requester": "Ana",
+      "spe": "193",
+      "estimated": 0,
+      "realized": 839.2,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:193",
+          "name": "PATTEO VM",
+          "spe": "193",
+          "cents": 83920
+        }
+      ],
+      "details": {
+        "origem": "Passagens. Hotel, linha 27",
+        "mes": "Setembro",
+        "dataOriginal": "2026-09-23T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-1-28",
+      "title": "Roadshow Espírito Santo",
+      "type": "Passagem aérea",
+      "status": "Importada",
+      "date": "2026-09-23",
+      "requester": "Ana",
+      "spe": "221",
+      "estimated": 0,
+      "realized": 839.2,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 83920
+        }
+      ],
+      "details": {
+        "origem": "Passagens. Hotel, linha 28",
+        "mes": "Setembro",
+        "dataOriginal": "2026-09-23T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-1-29",
+      "title": "RoadShow Maringa",
+      "type": "Passagem aérea",
+      "status": "Importada",
+      "date": "2026-09-23",
+      "requester": "Rafaela",
+      "spe": "223",
+      "estimated": 0,
+      "realized": 3850,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:223",
+          "name": "COLLAGE",
+          "spe": "223",
+          "cents": 385000
+        }
+      ],
+      "details": {
+        "origem": "Passagens. Hotel, linha 29",
+        "mes": "Setembro",
+        "dataOriginal": "2026-09-23T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-1-30",
+      "title": "RoadShow Maringa",
+      "type": "Passagem aérea",
+      "status": "Importada",
+      "date": "2026-09-23",
+      "requester": "Rafaela",
+      "spe": "223",
+      "estimated": 0,
+      "realized": 1358,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:223",
+          "name": "COLLAGE",
+          "spe": "223",
+          "cents": 135800
+        }
+      ],
+      "details": {
+        "origem": "Passagens. Hotel, linha 30",
+        "mes": "Setembro",
+        "dataOriginal": "2026-09-23T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-2-2",
+      "title": "Roadshow Macapá",
+      "type": "Reembolso",
+      "status": "Importada — revisar",
+      "date": "2026-03-15",
+      "requester": "Janaina Silva",
+      "spe": "224",
+      "estimated": 0,
+      "realized": 0,
+      "note": "3 diárias",
+      "shares": [
+        {
+          "projectId": "spe:224",
+          "name": "BRK",
+          "spe": "224",
+          "cents": 0
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 2",
+        "mes": "Março",
+        "dataOriginal": "2026-03-15T00:00:00.000Z",
+        "pendencias": "Custo zerado"
+      }
+    },
+    {
+      "id": "XLS-2-3",
+      "title": "Van Parceiros Ribeirão Preto",
+      "type": "Reembolso",
+      "status": "Importada — revisar",
+      "date": "2026-02-19",
+      "requester": "Ana Helena",
+      "spe": "214",
+      "estimated": 0,
+      "realized": 0,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:214",
+          "name": "CASA PIAUI",
+          "spe": "214",
+          "cents": 0
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 3",
+        "mes": "Fevereiro",
+        "dataOriginal": "2026-02-19T00:00:00.000Z",
+        "pendencias": "Custo zerado"
+      }
+    },
+    {
+      "id": "XLS-2-4",
+      "title": "Van Parceiros Ribeirão Preto",
+      "type": "Reembolso",
+      "status": "Importada — revisar",
+      "date": "2026-02-19",
+      "requester": "Bruno",
+      "spe": "211",
+      "estimated": 0,
+      "realized": 0,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:211",
+          "name": "HAVVA",
+          "spe": "211",
+          "cents": 0
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 4",
+        "mes": "Março",
+        "dataOriginal": "2026-02-19T00:00:00.000Z",
+        "pendencias": "Competência divergente da data; Custo zerado"
+      }
+    },
+    {
+      "id": "XLS-2-5",
+      "title": "Compra de Pizzas",
+      "type": "Reembolso",
+      "status": "Importada — revisar",
+      "date": "2026-03-05",
+      "requester": "Rafaela",
+      "spe": "138",
+      "estimated": 0,
+      "realized": 0,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:138",
+          "name": "ALEGRIA",
+          "spe": "138",
+          "cents": 0
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 5",
+        "mes": "Março",
+        "dataOriginal": "2026-03-05T00:00:00.000Z",
+        "pendencias": "Custo zerado"
+      }
+    },
+    {
+      "id": "XLS-2-6",
+      "title": "Roadshow Fortaleza",
+      "type": "Reembolso",
+      "status": "Importada — revisar",
+      "date": "2025-03-28",
+      "requester": "Thiago",
+      "spe": "187, 202",
+      "estimated": 0,
+      "realized": 25332,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:187",
+          "name": "ARTEFACTO",
+          "spe": "187",
+          "cents": 300000
+        },
+        {
+          "projectId": "spe:202",
+          "name": "METROPOLITAN",
+          "spe": "202",
+          "cents": 2233200
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 6",
+        "mes": "Março",
+        "dataOriginal": "2025-03-28T00:00:00.000Z",
+        "pendencias": "Histórico fora de 2026"
+      }
+    },
+    {
+      "id": "XLS-2-7",
+      "title": "Roadshow Brasília",
+      "type": "Reembolso",
+      "status": "Importada",
+      "date": "2026-05-29",
+      "requester": "Ana Helena",
+      "spe": "221, 224",
+      "estimated": 0,
+      "realized": 12000,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 600000
+        },
+        {
+          "projectId": "spe:224",
+          "name": "BRK",
+          "spe": "224",
+          "cents": 600000
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 7",
+        "mes": "Maio",
+        "dataOriginal": "2026-05-29T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-2-8",
+      "title": "Rateio Campanha Cooperada",
+      "type": "Reembolso",
+      "status": "Importada",
+      "date": "2026-03-30",
+      "requester": "Thiago",
+      "spe": "202, 193, 224, 223",
+      "estimated": 0,
+      "realized": 6000,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:202",
+          "name": "METROPOLITAN",
+          "spe": "202",
+          "cents": 200000
+        },
+        {
+          "projectId": "spe:193",
+          "name": "PATTEO VM",
+          "spe": "193",
+          "cents": 200000
+        },
+        {
+          "projectId": "spe:224",
+          "name": "BRK",
+          "spe": "224",
+          "cents": 100000
+        },
+        {
+          "projectId": "spe:223",
+          "name": "COLLAGE",
+          "spe": "223",
+          "cents": 100000
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 8",
+        "mes": "Março",
+        "dataOriginal": "2026-03-30T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-2-9",
+      "title": "Almoço Campeões",
+      "type": "Reembolso",
+      "status": "Importada",
+      "date": "2026-04-28",
+      "requester": "Bruno",
+      "spe": "194, 187, 211",
+      "estimated": 0,
+      "realized": 5033.74,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:194",
+          "name": "CASA VN",
+          "spe": "194",
+          "cents": 200000
+        },
+        {
+          "projectId": "spe:187",
+          "name": "ARTEFACTO",
+          "spe": "187",
+          "cents": 203374
+        },
+        {
+          "projectId": "spe:211",
+          "name": "HAVVA",
+          "spe": "211",
+          "cents": 100000
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 9",
+        "mes": "Abril",
+        "dataOriginal": "2026-04-28T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-2-10",
+      "title": "Rateio Campanha Cooperada",
+      "type": "Reembolso",
+      "status": "Importada",
+      "date": "2026-04-30",
+      "requester": "Thiago",
+      "spe": "224, 223, 202",
+      "estimated": 0,
+      "realized": 4070,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:224",
+          "name": "BRK",
+          "spe": "224",
+          "cents": 103500
+        },
+        {
+          "projectId": "spe:223",
+          "name": "COLLAGE",
+          "spe": "223",
+          "cents": 103500
+        },
+        {
+          "projectId": "spe:202",
+          "name": "METROPOLITAN",
+          "spe": "202",
+          "cents": 200000
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 10",
+        "mes": "Abril",
+        "dataOriginal": "2026-04-30T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-2-11",
+      "title": "Rateio Campanha Cooperada",
+      "type": "Reembolso",
+      "status": "Importada",
+      "date": "2026-05-30",
+      "requester": "Thiago",
+      "spe": "224, 183, 150, 187, 202, 194, 214",
+      "estimated": 0,
+      "realized": 7000,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:224",
+          "name": "BRK",
+          "spe": "224",
+          "cents": 100000
+        },
+        {
+          "projectId": "spe:183",
+          "name": "OPEN MIND",
+          "spe": "183",
+          "cents": 100000
+        },
+        {
+          "projectId": "spe:150",
+          "name": "W",
+          "spe": "150",
+          "cents": 100000
+        },
+        {
+          "projectId": "spe:187",
+          "name": "ARTEFACTO",
+          "spe": "187",
+          "cents": 100000
+        },
+        {
+          "projectId": "spe:202",
+          "name": "METROPOLITAN",
+          "spe": "202",
+          "cents": 100000
+        },
+        {
+          "projectId": "spe:194",
+          "name": "CASA VN",
+          "spe": "194",
+          "cents": 100000
+        },
+        {
+          "projectId": "spe:214",
+          "name": "CASA PIAUI",
+          "spe": "214",
+          "cents": 100000
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 11",
+        "mes": "Maio",
+        "dataOriginal": "2026-05-30T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-2-12",
+      "title": "Patrocinio Brasilia",
+      "type": "Reembolso",
+      "status": "Importada",
+      "date": "2026-05-30",
+      "requester": "Ana Helena",
+      "spe": "221, 224",
+      "estimated": 0,
+      "realized": 12000,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 600000
+        },
+        {
+          "projectId": "spe:224",
+          "name": "BRK",
+          "spe": "224",
+          "cents": 600000
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 12",
+        "mes": "Maio",
+        "dataOriginal": "2026-05-30T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-2-13",
+      "title": "Audivisual RoadShow Caruaru",
+      "type": "Reembolso",
+      "status": "Importada",
+      "date": "2026-05-30",
+      "requester": "Gislaine",
+      "spe": "221, 224, 183",
+      "estimated": 0,
+      "realized": 3000,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 100000
+        },
+        {
+          "projectId": "spe:224",
+          "name": "BRK",
+          "spe": "224",
+          "cents": 100000
+        },
+        {
+          "projectId": "spe:183",
+          "name": "OPEN MIND",
+          "spe": "183",
+          "cents": 100000
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 13",
+        "mes": "Maio",
+        "dataOriginal": "2026-05-30T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-2-14",
+      "title": "Diária W (Sorteio Evento Sergio Langer)",
+      "type": "Reembolso",
+      "status": "Importada",
+      "date": "2026-05-30",
+      "requester": "Ana Helena",
+      "spe": "150",
+      "estimated": 0,
+      "realized": 1416.35,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:150",
+          "name": "W",
+          "spe": "150",
+          "cents": 141635
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 14",
+        "mes": "Maio",
+        "dataOriginal": "2026-05-30T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-2-15",
+      "title": "Café Imobiliaria Revenda",
+      "type": "Reembolso",
+      "status": "Importada",
+      "date": "2026-05-23",
+      "requester": "Janaina Silva",
+      "spe": "223",
+      "estimated": 0,
+      "realized": 1345.63,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:223",
+          "name": "COLLAGE",
+          "spe": "223",
+          "cents": 134563
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 15",
+        "mes": "Maio",
+        "dataOriginal": "2026-05-23T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-2-16",
+      "title": "Campanha Gabriela Romero",
+      "type": "Reembolso",
+      "status": "Importada",
+      "date": "2026-04-10",
+      "requester": "Janaina Silva",
+      "spe": "223, 224",
+      "estimated": 0,
+      "realized": 2000,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:223",
+          "name": "COLLAGE",
+          "spe": "223",
+          "cents": 100000
+        },
+        {
+          "projectId": "spe:224",
+          "name": "BRK",
+          "spe": "224",
+          "cents": 100000
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 16",
+        "mes": "Abril",
+        "dataOriginal": "2026-04-10T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-2-17",
+      "title": "Campanha Cooperada Mogi das Cruzes",
+      "type": "Reembolso",
+      "status": "Importada",
+      "date": "2026-05-26",
+      "requester": "Rafaela",
+      "spe": "ALDEN 4",
+      "estimated": 0,
+      "realized": 15000,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:ALDEN 4",
+          "name": "FAZENDA ITAPETY",
+          "spe": "ALDEN 4",
+          "cents": 1500000
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 17",
+        "mes": "Maio",
+        "dataOriginal": "2026-05-26T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-2-18",
+      "title": "Café Imobiliaria Revenda",
+      "type": "Reembolso",
+      "status": "Importada",
+      "date": "2026-06-01",
+      "requester": "Não informado",
+      "spe": "223",
+      "estimated": 0,
+      "realized": 1000,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:223",
+          "name": "COLLAGE",
+          "spe": "223",
+          "cents": 100000
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 18",
+        "mes": "Junho",
+        "dataOriginal": "2026-06-01T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-2-19",
+      "title": "Campanha cooperada Imobiliaria Hit Imoveis",
+      "type": "Reembolso",
+      "status": "Importada",
+      "date": "2026-06-10",
+      "requester": "Rafaela",
+      "spe": "193",
+      "estimated": 0,
+      "realized": 2000,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:193",
+          "name": "PATTEO VM",
+          "spe": "193",
+          "cents": 200000
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 19",
+        "mes": "Junho",
+        "dataOriginal": "2026-06-10T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-2-20",
+      "title": "Campanha cooperada Imobiliária  MVF VAZ",
+      "type": "Reembolso",
+      "status": "Importada",
+      "date": "2026-06-10",
+      "requester": "Bruno",
+      "spe": "211",
+      "estimated": 0,
+      "realized": 5000,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:211",
+          "name": "HAVVA",
+          "spe": "211",
+          "cents": 500000
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 20",
+        "mes": "Junho",
+        "dataOriginal": "2026-06-10T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-2-21",
+      "title": "Campanha Cooperada Deise Santiago (Mogi)",
+      "type": "Reembolso",
+      "status": "Importada",
+      "date": "2026-06-10",
+      "requester": "Rafaela",
+      "spe": "138",
+      "estimated": 0,
+      "realized": 5000,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:138",
+          "name": "ALEGRIA",
+          "spe": "138",
+          "cents": 500000
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 21",
+        "mes": "Junho",
+        "dataOriginal": "2026-06-10T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-2-22",
+      "title": "Campanha Cooperada Papuun",
+      "type": "Reembolso",
+      "status": "Importada",
+      "date": "2026-06-10",
+      "requester": "Ana Helena",
+      "spe": "224",
+      "estimated": 0,
+      "realized": 2000,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:224",
+          "name": "BRK",
+          "spe": "224",
+          "cents": 200000
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 22",
+        "mes": "Junho",
+        "dataOriginal": "2026-06-10T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-2-23",
+      "title": "Rateio Campanha Cooperada",
+      "type": "Reembolso",
+      "status": "Importada",
+      "date": "2026-06-01",
+      "requester": "Rafaela",
+      "spe": "223, 187, 197",
+      "estimated": 0,
+      "realized": 7000,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:223",
+          "name": "COLLAGE",
+          "spe": "223",
+          "cents": 250000
+        },
+        {
+          "projectId": "spe:187",
+          "name": "ARTEFACTO",
+          "spe": "187",
+          "cents": 250000
+        },
+        {
+          "projectId": "spe:197",
+          "name": "CLUBE PATTEO SBC",
+          "spe": "197",
+          "cents": 200000
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 23",
+        "mes": "Junho",
+        "dataOriginal": "2026-06-01T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-2-24",
+      "title": "Rateio Campanha Cooperada",
+      "type": "Reembolso",
+      "status": "Importada — revisar",
+      "date": "2026-08-26",
+      "requester": "Não informado",
+      "spe": "224, 183, 187, 202",
+      "estimated": 0,
+      "realized": 6210,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:224",
+          "name": "BRK",
+          "spe": "224",
+          "cents": 155250
+        },
+        {
+          "projectId": "spe:183",
+          "name": "OPEN MIND",
+          "spe": "183",
+          "cents": 155250
+        },
+        {
+          "projectId": "spe:187",
+          "name": "ARTEFACTO",
+          "spe": "187",
+          "cents": 155250
+        },
+        {
+          "projectId": "spe:202",
+          "name": "METROPOLITAN",
+          "spe": "202",
+          "cents": 155250
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 24",
+        "mes": "Julho",
+        "dataOriginal": "2026-08-26T00:00:00.000Z",
+        "pendencias": "Competência divergente da data"
+      }
+    },
+    {
+      "id": "XLS-2-25",
+      "title": "Rateio Campanha Cooperada",
+      "type": "Reembolso",
+      "status": "Importada",
+      "date": "2026-08-01",
+      "requester": "Não informado",
+      "spe": "193, 214, 223, 211, 221",
+      "estimated": 0,
+      "realized": 6210,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:193",
+          "name": "PATTEO VM",
+          "spe": "193",
+          "cents": 103500
+        },
+        {
+          "projectId": "spe:214",
+          "name": "CASA PIAUI",
+          "spe": "214",
+          "cents": 103500
+        },
+        {
+          "projectId": "spe:223",
+          "name": "COLLAGE",
+          "spe": "223",
+          "cents": 155250
+        },
+        {
+          "projectId": "spe:211",
+          "name": "HAVVA",
+          "spe": "211",
+          "cents": 103500
+        },
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 155250
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 25",
+        "mes": "Agosto",
+        "dataOriginal": "2026-08-01T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-2-26",
+      "title": "Rateio Campanha Cooperada",
+      "type": "Reembolso",
+      "status": "Importada — revisar",
+      "date": "2026-09-01",
+      "requester": "Não informado",
+      "spe": "",
+      "estimated": 0,
+      "realized": 0,
+      "note": "",
+      "shares": [],
+      "details": {
+        "origem": "Reembolso, linha 26",
+        "mes": "Setembro",
+        "dataOriginal": "2026-09-01T00:00:00.000Z",
+        "pendencias": "Custo zerado"
+      }
+    },
+    {
+      "id": "XLS-2-27",
+      "title": "Rateio Campanha Cooperada",
+      "type": "Reembolso",
+      "status": "Importada — revisar",
+      "date": "2026-10-01",
+      "requester": "Não informado",
+      "spe": "",
+      "estimated": 0,
+      "realized": 0,
+      "note": "",
+      "shares": [],
+      "details": {
+        "origem": "Reembolso, linha 27",
+        "mes": "Outubro",
+        "dataOriginal": "2026-10-01T00:00:00.000Z",
+        "pendencias": "Custo zerado"
+      }
+    },
+    {
+      "id": "XLS-2-28",
+      "title": "Rateio Campanha Cooperada",
+      "type": "Reembolso",
+      "status": "Importada — revisar",
+      "date": "2026-11-01",
+      "requester": "Não informado",
+      "spe": "",
+      "estimated": 0,
+      "realized": 0,
+      "note": "",
+      "shares": [],
+      "details": {
+        "origem": "Reembolso, linha 28",
+        "mes": "Novembro",
+        "dataOriginal": "2026-11-01T00:00:00.000Z",
+        "pendencias": "Custo zerado"
+      }
+    },
+    {
+      "id": "XLS-2-29",
+      "title": "Rateio Campanha Cooperada",
+      "type": "Reembolso",
+      "status": "Importada — revisar",
+      "date": "2026-12-01",
+      "requester": "Não informado",
+      "spe": "",
+      "estimated": 0,
+      "realized": 0,
+      "note": "",
+      "shares": [],
+      "details": {
+        "origem": "Reembolso, linha 29",
+        "mes": "Dezembro",
+        "dataOriginal": "2026-12-01T00:00:00.000Z",
+        "pendencias": "Custo zerado"
+      }
+    },
+    {
+      "id": "XLS-2-30",
+      "title": "Evento Habitare S. A (Barbara Bachi )",
+      "type": "Reembolso",
+      "status": "Importada",
+      "date": "2026-07-02",
+      "requester": "Ana Helena",
+      "spe": "150",
+      "estimated": 0,
+      "realized": 3666.46,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:150",
+          "name": "W",
+          "spe": "150",
+          "cents": 366646
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 30",
+        "mes": "Julho",
+        "dataOriginal": "2026-07-02T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-2-31",
+      "title": "Campanha Cooperada Vita Home",
+      "type": "Reembolso",
+      "status": "Importada",
+      "date": "2026-08-11",
+      "requester": "Ana Helena",
+      "spe": "211",
+      "estimated": 0,
+      "realized": 3000,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:211",
+          "name": "HAVVA",
+          "spe": "211",
+          "cents": 300000
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 31",
+        "mes": "Agosto",
+        "dataOriginal": "2026-08-11T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-2-32",
+      "title": "Campanha Cooperada SIGASP",
+      "type": "Reembolso",
+      "status": "Importada",
+      "date": "2026-09-14",
+      "requester": "Ana Helena",
+      "spe": "221",
+      "estimated": 0,
+      "realized": 5000,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 500000
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 32",
+        "mes": "Setembro",
+        "dataOriginal": "2026-09-14T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-2-33",
+      "title": "Campanha Cooperada EMPYRUS IMOVEIS",
+      "type": "Reembolso",
+      "status": "Importada",
+      "date": "2026-08-31",
+      "requester": "Janaina",
+      "spe": "193",
+      "estimated": 0,
+      "realized": 2277,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:193",
+          "name": "PATTEO VM",
+          "spe": "193",
+          "cents": 227700
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 33",
+        "mes": "Agosto",
+        "dataOriginal": "2026-08-31T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-2-34",
+      "title": "Campanha Cooperada ELIETE P DA SILVA",
+      "type": "Reembolso",
+      "status": "Importada",
+      "date": "2026-08-31",
+      "requester": "Ana Helena",
+      "spe": "183",
+      "estimated": 0,
+      "realized": 3000,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:183",
+          "name": "OPEN MIND",
+          "spe": "183",
+          "cents": 300000
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 34",
+        "mes": "Agosto",
+        "dataOriginal": "2026-08-31T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-2-35",
+      "title": "Reembolso Almoço reconhecimento Parceiros",
+      "type": "Reembolso",
+      "status": "Importada — revisar",
+      "date": "2026-08-24",
+      "requester": "Bruno",
+      "spe": "221",
+      "estimated": 0,
+      "realized": 3502,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 350200
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 35",
+        "mes": "Setembro",
+        "dataOriginal": "2026-08-24T00:00:00.000Z",
+        "pendencias": "Competência divergente da data"
+      }
+    },
+    {
+      "id": "XLS-2-36",
+      "title": "Campanha Cooperada Agosto",
+      "type": "Reembolso",
+      "status": "Importada",
+      "date": "2026-08-29",
+      "requester": "Ana Helena",
+      "spe": "193, 211, 183, 197, 219, 221, 138",
+      "estimated": 0,
+      "realized": 60030,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:193",
+          "name": "PATTEO VM",
+          "spe": "193",
+          "cents": 310500
+        },
+        {
+          "projectId": "spe:211",
+          "name": "HAVVA",
+          "spe": "211",
+          "cents": 621000
+        },
+        {
+          "projectId": "spe:183",
+          "name": "OPEN MIND",
+          "spe": "183",
+          "cents": 258750
+        },
+        {
+          "projectId": "spe:197",
+          "name": "CLUBE PATTEO SBC",
+          "spe": "197",
+          "cents": 155250
+        },
+        {
+          "projectId": "spe:219",
+          "name": "LENS",
+          "spe": "219",
+          "cents": 1552500
+        },
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 2070000
+        },
+        {
+          "projectId": "spe:138",
+          "name": "ALEGRIA",
+          "spe": "138",
+          "cents": 1035000
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 36",
+        "mes": "Agosto",
+        "dataOriginal": "2026-08-29T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-2-37",
+      "title": "Campanha Cooperada Agosto",
+      "type": "Reembolso",
+      "status": "Importada",
+      "date": "2026-08-29",
+      "requester": "Ana Helena",
+      "spe": "ALDEN 4, 42, 202, 187",
+      "estimated": 0,
+      "realized": 22770,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:ALDEN 4",
+          "name": "FAZENDA ITAPETY",
+          "spe": "ALDEN 4",
+          "cents": 1035000
+        },
+        {
+          "projectId": "spe:42",
+          "name": "PARQUE CLUBE IPOEMA",
+          "spe": "42",
+          "cents": 828000
+        },
+        {
+          "projectId": "spe:202",
+          "name": "METROPOLITAN",
+          "spe": "202",
+          "cents": 207000
+        },
+        {
+          "projectId": "spe:187",
+          "name": "ARTEFACTO",
+          "spe": "187",
+          "cents": 207000
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 37",
+        "mes": "Agosto",
+        "dataOriginal": "2026-08-29T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-2-38",
+      "title": "Mini café Treinamento",
+      "type": "Reembolso",
+      "status": "Importada",
+      "date": "2026-10-06",
+      "requester": "Janaina",
+      "spe": "197",
+      "estimated": 0,
+      "realized": 180,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:197",
+          "name": "CLUBE PATTEO SBC",
+          "spe": "197",
+          "cents": 18000
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 38",
+        "mes": "Outubro",
+        "dataOriginal": "2026-10-06T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-2-39",
+      "title": "Filmagem Stay Moema",
+      "type": "Reembolso",
+      "status": "Importada",
+      "date": "2026-09-10",
+      "requester": "Não informado",
+      "spe": "221",
+      "estimated": 0,
+      "realized": 475,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 47500
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 39",
+        "mes": "Setembro",
+        "dataOriginal": "2026-09-10T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-2-40",
+      "title": "RoadShow",
+      "type": "Reembolso",
+      "status": "Importada",
+      "date": "2026-09-23",
+      "requester": "Não informado",
+      "spe": "223",
+      "estimated": 0,
+      "realized": 11714.94,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:223",
+          "name": "COLLAGE",
+          "spe": "223",
+          "cents": 1171494
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 40",
+        "mes": "Setembro",
+        "dataOriginal": "2026-09-23T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-2-41",
+      "title": "Rodada de Negocios",
+      "type": "Reembolso",
+      "status": "Importada",
+      "date": "2026-09-24",
+      "requester": "Não informado",
+      "spe": "221, 193, 214",
+      "estimated": 0,
+      "realized": 9365,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 300000
+        },
+        {
+          "projectId": "spe:193",
+          "name": "PATTEO VM",
+          "spe": "193",
+          "cents": 300000
+        },
+        {
+          "projectId": "spe:214",
+          "name": "CASA PIAUI",
+          "spe": "214",
+          "cents": 336500
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 41",
+        "mes": "Setembro",
+        "dataOriginal": "2026-09-24T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-2-42",
+      "title": "MB Summit Brasil",
+      "type": "Reembolso",
+      "status": "Importada",
+      "date": "2026-09-25",
+      "requester": "Não informado",
+      "spe": "221, 214, 183, 193",
+      "estimated": 0,
+      "realized": 8000,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:221",
+          "name": "STAY MOEMA",
+          "spe": "221",
+          "cents": 300000
+        },
+        {
+          "projectId": "spe:214",
+          "name": "CASA PIAUI",
+          "spe": "214",
+          "cents": 251000
+        },
+        {
+          "projectId": "spe:183",
+          "name": "OPEN MIND",
+          "spe": "183",
+          "cents": 176000
+        },
+        {
+          "projectId": "spe:193",
+          "name": "PATTEO VM",
+          "spe": "193",
+          "cents": 73000
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 42",
+        "mes": "Setembro",
+        "dataOriginal": "2026-09-25T00:00:00.000Z",
+        "pendencias": ""
+      }
+    },
+    {
+      "id": "XLS-2-43",
+      "title": "Campanha Cooperada",
+      "type": "Reembolso",
+      "status": "Importada",
+      "date": "2026-09-15",
+      "requester": "Não informado",
+      "spe": "187, 202",
+      "estimated": 0,
+      "realized": 1500,
+      "note": "",
+      "shares": [
+        {
+          "projectId": "spe:187",
+          "name": "ARTEFACTO",
+          "spe": "187",
+          "cents": 70000
+        },
+        {
+          "projectId": "spe:202",
+          "name": "METROPOLITAN",
+          "spe": "202",
+          "cents": 80000
+        }
+      ],
+      "details": {
+        "origem": "Reembolso, linha 43",
+        "mes": "Setembro",
+        "dataOriginal": "2026-09-15T00:00:00.000Z",
+        "pendencias": ""
+      }
+    }
+  ],
+  "budgetCount": 201,
+  "pending": 18,
+  "rawExpenseCents": 82791667,
+  "projects": [
+    {
+      "id": "spe:224",
+      "name": "BRK",
+      "spe": "224"
+    },
+    {
+      "id": "spe:183",
+      "name": "OPEN MIND",
+      "spe": "183"
+    },
+    {
+      "id": "spe:150",
+      "name": "W",
+      "spe": "150"
+    },
+    {
+      "id": "spe:187",
+      "name": "ARTEFACTO",
+      "spe": "187"
+    },
+    {
+      "id": "spe:197",
+      "name": "CLUBE PATTEO SBC",
+      "spe": "197"
+    },
+    {
+      "id": "spe:193",
+      "name": "PATTEO VM",
+      "spe": "193"
+    },
+    {
+      "id": "spe:202",
+      "name": "METROPOLITAN",
+      "spe": "202"
+    },
+    {
+      "id": "spe:194",
+      "name": "CASA VN",
+      "spe": "194"
+    },
+    {
+      "id": "spe:214",
+      "name": "CASA PIAUI",
+      "spe": "214"
+    },
+    {
+      "id": "spe:223",
+      "name": "COLLAGE",
+      "spe": "223"
+    },
+    {
+      "id": "spe:211",
+      "name": "HAVVA",
+      "spe": "211"
+    },
+    {
+      "id": "spe:221",
+      "name": "STAY MOEMA",
+      "spe": "221"
+    },
+    {
+      "id": "spe:208",
+      "name": "NEW PATTEO OSASCO",
+      "spe": "208"
+    },
+    {
+      "id": "spe:ALDEN 4",
+      "name": "FAZENDA ITAPETY",
+      "spe": "ALDEN 4"
+    },
+    {
+      "id": "spe:138",
+      "name": "ALEGRIA",
+      "spe": "138"
+    },
+    {
+      "id": "spe:142",
+      "name": "PARQUE CLUBE IPOEMA",
+      "spe": "142"
+    },
+    {
+      "id": "spe:42",
+      "name": "PARQUE CLUBE IPOEMA",
+      "spe": "42"
+    },
+    {
+      "id": "spe:ALDEN 8",
+      "name": "VILA ITAPETY",
+      "spe": "ALDEN 8"
+    },
+    {
+      "id": "spe:BUTANTA",
+      "name": "TO LIV",
+      "spe": "BUTANTA"
+    },
+    {
+      "id": "spe:ALDEN 5",
+      "name": "FAZENDA ITAPETY",
+      "spe": "ALDEN 5"
+    },
+    {
+      "id": "spe:219",
+      "name": "LENS",
+      "spe": "219"
+    }
+  ]
+}
