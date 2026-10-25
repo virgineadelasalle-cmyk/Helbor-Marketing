@@ -1,4 +1,4 @@
-:HL["/Helbor-Marketing/_next/static/chunks/32b2p2u5yqoox.css","style"]
+:HL["/Helbor-Marketing/_next/static/chunks/1yzv6bd6b6nsm.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"xzUOOZmdgeD-A4Bm1JSnH","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"hQBIUS3-RujiJoLKSfB2V","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
