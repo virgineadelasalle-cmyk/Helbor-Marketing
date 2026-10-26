@@ -1,0 +1,13 @@
+import assert from 'node:assert/strict';
+import {test} from 'node:test';
+import {readFileSync} from 'node:fs';
+import {moneyCents,equalShares,validCPF,financialYear,operational,requestDate} from '../src/lib/corretor.ts';
+const book=JSON.parse(readFileSync(new URL('../public/workbook-real.json',import.meta.url)));
+const total=a=>a.reduce((x,y)=>x+y,0);
+test('money accepts Brazilian cents and rejects negatives and excessive decimals',()=>{assert.equal(moneyCents('R$ 1.234,56'),123456);assert.equal(moneyCents('0,01'),1);assert.throws(()=>moneyCents('-1'));assert.throws(()=>moneyCents('1.001'));});
+test('equal allocation preserves every cent',()=>{assert.deepEqual(equalShares(100,['A','B','C']),{A:34,B:33,C:33});assert.throws(()=>equalShares(100,[]));});
+test('CPF check digits reject repeated and invalid numbers',()=>{assert.equal(validCPF('529.982.247-25'),true);assert.equal(validCPF('529.982.247-24'),false);assert.equal(validCPF('111.111.111-11'),false);});
+test('original workbook totals and records are preserved',()=>{const before=JSON.stringify(book);const result=financialYear(book,book.requests,2026);assert.equal(total(result.expenses),74226280);assert.equal(total(result.budgets),132610000);assert.equal(JSON.stringify(book),before);});
+test('estimate, approval, execution, final cost and cancellation do not double count',()=>{const r={id:'NEW',title:'Event',type:'Evento',date:'2026-04-09',competence:'2026-04',requester:'Test',spe:'150',estimated:5000,realized:0,note:'',status:'Recebida',approvedCents:600000,shares:[{projectId:'spe:150',spe:'150',name:'BRK',cents:400000}]};const base=financialYear(book,book.requests,2026);for(const [status,cost,reserve] of [['Recebida',0,0],['Aprovada',0,600000],['Em execução',0,600000],['Finalizada',4000,0],['Finalizada',7000,0],['Cancelada',7000,0]]){const result=financialYear(book,[...book.requests,{...r,status,realized:cost}],2026);assert.equal(total(result.committed),reserve);assert.equal(total(result.expenses)-total(base.expenses),status==='Finalizada'?cost*100:0);}});
+test('duplicate IDs are not counted twice and unbudgeted year has valid zero arrays',()=>{const r=financialYear(book,[...book.requests,...book.requests],2026);assert.equal(total(r.expenses),74226280);assert.equal(total(financialYear(book,book.requests,2030).budgets),0);});
+test('legacy dates are not fabricated and imports do not masquerade as received',()=>{assert.equal(requestDate(book.requests[0]),'');assert.equal(operational('Importada'),null);assert.equal(operational('Recebida'),'Pendentes de atendimento');assert.equal(operational('Aguardando informações'),'Aguardando retorno');});

@@ -1,0 +1,7 @@
+"use client";
+import {useState} from 'react';
+import {moneyCents,type Demand} from '../lib/corretor';
+export default function ApprovalFields({request,onSave}:{request:Demand;onSave:(patch:Partial<Demand>)=>void}){
+ const [amount,setAmount]=useState(request.approvedCents?(request.approvedCents/100).toFixed(2):''),[competence,setCompetence]=useState(request.competence||''),[date,setDate]=useState(request.financialDate||''),[error,setError]=useState('');
+ return <div className="approval-fields"><label>Valor aprovado pelo Marketing (R$)<input aria-label="Valor aprovado pelo Marketing" inputMode="decimal" value={amount} onChange={e=>setAmount(e.target.value)}/></label><label>Competência financeira<input aria-label="Competência financeira" type="month" value={competence} onChange={e=>setCompetence(e.target.value)}/></label><label>Data de lançamento financeiro<input type="date" value={date} onChange={e=>setDate(e.target.value)}/></label><button type="button" onClick={()=>{try{const cents=moneyCents(amount);if(cents<=0)throw new Error('Valor aprovado deve ser positivo.');if(!/^\d{4}-(0[1-9]|1[0-2])$/.test(competence))throw new Error('Informe a competência financeira.');onSave({approvedCents:cents,competence,financialDate:date});setError('');}catch(e){setError((e as Error).message);}}}>Salvar aprovação financeira</button><small>Salvar o valor não reserva verba sozinho. A reserva começa no status Aprovada.</small>{error&&<p role="alert">{error}</p>}</div>;
+}
